@@ -99,7 +99,7 @@
                                     <th scope="col" class="sort" data-sort="Price">Price</th>
 									<th scope="col" class="sort" data-sort="Mod">Mod</th>
                                 </tr>
-                                <tbody class="Items">
+                                <tbody class="list">
                                 </tbody>
                             </table>
                         </div>
@@ -221,8 +221,8 @@
             itemList = new List('List', options, itemData);
         });
 
-        let eventList = null;
-        $.getJSON(eventListURL, function(data) {
+        let NPCList = null;
+        $.getJSON(NPCListURL, function(data) {
             var options = {
                 valueNames: ['Name', 'Price', 'Mod'],
                 item: '<tr><td class="Name" scope="row"></td><td class="Price"></td><td class="Mod"></td></tr>'
@@ -235,38 +235,8 @@
                 }
             });
 
-            eventList = new List('NPCs', options, eventData);
+            NPCList = new List('NPCs', options, eventData);
         });
-		
-		let traitList = null;
-		$.getJSON(traitListURL, function(data) {
-			var options = {
-				valueNames: ['Trait', 'Description', 'Stats', 'Conflicts'],
-				item: '<tr><td class="Trait" scope="row"></td><td class="Description"></td><td class="Stats"></td><td class="Conflicts"></td></tr>'
-			};
-			
-			var traitData = [];
-			$.each(data.traits, function(index,value) {
-				traitData.push(value);
-			});		
-			
-			traitList = new List('traits', options, traitData);
-		});		
-		
-		let raceList = null;
-		$.getJSON(raceListURL, function(data) {
-			var options = {
-				valueNames: ['abr', 'price'],
-				item: '<tr><td class="abr" scope="row"></td><td class="price"></td></tr>'
-			};
-			
-			var raceData = [];
-			$.each(data.races, function(index,value) {
-				raceData.push(value);
-			});		
-			
-			raceList = new List('races', options, raceData);
-		});
 
         $("#item-price-min").keyup(function() {
             updateItemFilter();
@@ -289,7 +259,7 @@
                 }
                 return allow;
             });
-	    eventList.filter(function(item) {
+	    NPCList.filter(function(item) {
                 var allow = true;
                 if (minPrice != "" && parseInt(item.values().price) < minPrice) {
                     allow = false;
