@@ -14,6 +14,7 @@
     <script type="text/javascript">
         const itemListURL = "https://raw.githubusercontent.com/saschahi/TerrariaList/master/ItemList.json";
         const NPCListURL = "https://raw.githubusercontent.com/saschahi/TerrariaList/master/NPCList.json";
+		const BuffListURL = "https://raw.githubusercontent.com/saschahi/TerrariaList/master/BuffList.json";
     </script>
 </head>
 
@@ -60,6 +61,9 @@
                                     </button>
                                     <button class="btn btn-success" ng-class="{'active': (selected == '2')}" ng-click='selected=2'>
                                         NPCs
+                                    </button>
+									<button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=3'>
+                                        Buffs
                                     </button>
                                 </div>
                                 <div class="form-group row">
@@ -128,6 +132,39 @@
                                 </button>
                             </p>
                             <table class="table NPCs">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="Name">Name</th>
+                                    <th scope="col" class="sort" data-sort="Price">Price</th>
+									<th scope="col" class="sort" data-sort="Mod">Mod</th>
+
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+				<div class="row" ng-show='selected == 3'>
+                    <div class="col-md-12">
+                        <div id="Buffs">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <p>
+                                <button type="button" class="btn btn-primary sort" data-sort="Name">
+                                    Sort by Name
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="Price">
+                                    Sort by Price per Second
+                                </button>
+								<button type="button" class="btn btn-primary sort" data-sort="Mod">
+                                    Sort by Mod
+                                </button>
+                            </p>
+                            <table class="table Buffs">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="Name">Name</th>
                                     <th scope="col" class="sort" data-sort="Price">Price</th>
@@ -239,6 +276,23 @@
 
             NPCList = new List('NPCs', options, eventData);
         });
+		
+		let BuffList = null;
+        $.getJSON(BuffListURL, function(data) {
+            var options = {
+                valueNames: ['Name', 'Price', 'Mod'],
+                item: '<tr><td class="Name" scope="row"></td><td class="Price"></td><td class="Mod"></td></tr>'
+            };
+
+            var eventData = [];
+            $.each(data.List, function(index, value) {
+                if (value["Price"] > 0) {
+                    eventData.push(value);
+                }
+            });
+
+            BuffList = new List('Buffs', options, eventData);
+        });
 
         $("#item-price-min").keyup(function() {
             updateItemFilter();
@@ -253,24 +307,33 @@
             var maxPrice = $("#item-price-max").val();
             itemList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
                     allow = false;
                 }
                 return allow;
             });
-	    NPCList.filter(function(item) {
+	        NPCList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
                     allow = false;
                 }
                 return allow;
-            });	
+            });
+            BuffList.filter(function(item) {
+                var allow = true;
+                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
+                    allow = false;
+                }
+                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
+                    allow = false;
+                }
+                return allow;			
         }
     </script>
     <script type="text/javascript">
