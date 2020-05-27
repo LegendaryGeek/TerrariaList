@@ -212,13 +212,13 @@
             };
 
             var itemData = [];
-            $.each(data.list, function(index, value) {
+            $.each(data.List, function(index, value) {
                 if (value["Price"] > 0) {
                     itemData.push(value);
                 }
             });
 
-            itemList = new List('List', options, itemData);
+            itemList = new List('Items', options, itemData);
         });
 
         let NPCList = null;
