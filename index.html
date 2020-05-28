@@ -186,6 +186,8 @@
                 </div>
                 <div class="col-md-6">
                 </div>
+				<div class="col-md-6">
+                </div>
             </div>
             <hr>
         </div>
@@ -244,15 +246,19 @@
     </style>
     <script type="text/javascript">
         let itemList = null;
-        $.getJSON(itemListURL, function(data) {
-            var options = {
+        $.getJSON(itemListURL, function(data) 
+		{
+            var options = 
+			{
                 valueNames: ['Name', 'Price', 'Mod'],
                 item: '<tr><td class="Name" scope="row"></td><td class="Price"></td><td class="Mod"></td></tr>'
             };
 
             var itemData = [];
-            $.each(data.List, function(index, value) {
-                if (value["Price"] > 0) {
+            $.each(data.List, function(index, value) 
+			{
+                if (value["Price"] > 0) 
+				{
                     itemData.push(value);
                 }
             });
@@ -261,79 +267,102 @@
         });
 
         let NPCList = null;
-        $.getJSON(NPCListURL, function(data) {
-            var options = {
+        $.getJSON(NPCListURL, function(data) 
+		{
+            var options = 
+			{
                 valueNames: ['Name', 'Price', 'Mod'],
                 item: '<tr><td class="Name" scope="row"></td><td class="Price"></td><td class="Mod"></td></tr>'
             };
 
-            var eventData = [];
-            $.each(data.List, function(index, value) {
-                if (value["Price"] > 0) {
-                    eventData.push(value);
+            var NPCData = [];
+            $.each(data.List, function(index, value) 
+			{
+                if (value["Price"] > 0) 
+				{
+                    NPCData.push(value);
                 }
             });
 
-            NPCList = new List('NPCs', options, eventData);
+            NPCList = new List('NPCs', options, NPCData);
         });
 		
 		let BuffList = null;
-        $.getJSON(BuffListURL, function(data) {
-            var options = {
+        $.getJSON(BuffListURL, function(data) 
+		{
+            var options = 
+			{
                 valueNames: ['Name', 'Price', 'Mod'],
                 item: '<tr><td class="Name" scope="row"></td><td class="Price"></td><td class="Mod"></td></tr>'
             };
 
-            var eventData = [];
-            $.each(data.List, function(index, value) {
-                if (value["Price"] > 0) {
-                    eventData.push(value);
+            var buffData = [];
+            $.each(data.List, function(index, value) 
+			{
+                if (value["Price"] > 0) 
+				{
+                    buffData.push(value);
                 }
             });
 
-            BuffList = new List('Buffs', options, eventData);
+            BuffList = new List('Buffs', options, buffData);
         });
 
-        $("#item-price-min").keyup(function() {
+        $("#item-price-min").keyup(function() 
+		{
             updateItemFilter();
         });
 
-        $("#item-price-max").keyup(function() {
+        $("#item-price-max").keyup(function() 
+		{
             updateItemFilter();
         });
 
-        function updateItemFilter() {
+        function updateItemFilter() 
+		{
             var minPrice = $("#item-price-min").val();
             var maxPrice = $("#item-price-max").val();
-            itemList.filter(function(item) {
+            itemList.filter(function(item) 
+			{
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) 
+				{
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) 
+				{
                     allow = false;
                 }
                 return allow;
             });
-	        NPCList.filter(function(item) {
+			
+	        NPCList.filter(function(item) 
+			{
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) 
+				{
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) 
+				{
                     allow = false;
                 }
                 return allow;
             });
-            BuffList.filter(function(item) {
+			
+            BuffList.filter(function(item) 
+			{
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) 
+				{
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) 
+				{
                     allow = false;
                 }
                 return allow;			
+            });
         }
     </script>
     <script type="text/javascript">
