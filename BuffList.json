@@ -523,12 +523,6 @@
       "Mod": "Manual"
     },
     {
-      "Name": "daybroken",
-      "Price": 1000.0,
-      "ID": 189,
-      "Mod": "Manual"
-    },
-    {
       "Name": "witheredarmor",
       "Price": 25.0,
       "ID": 195,
@@ -556,6 +550,18 @@
       "Name": "creativeshock",
       "Price": 20.0,
       "ID": 199,
+      "Mod": "Manual"
+    },
+    {
+      "Name": "rapidhealing",
+      "Price": 10.0,
+      "ID": 58,
+      "Mod": "Manual"
+    },
+    {
+      "Name": "drill",
+      "Price": 20.0,
+      "ID": 142,
       "Mod": "Manual"
     }
   ]
