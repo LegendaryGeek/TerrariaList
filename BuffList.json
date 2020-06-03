@@ -469,12 +469,6 @@
       "Mod": "Manual"
     },
     {
-      "Name": "shadowflame",
-      "Price": 90.0,
-      "ID": 153,
-      "Mod": "Manual"
-    },
-    {
       "Name": "stoned",
       "Price": 100.0,
       "ID": 156,
@@ -556,12 +550,6 @@
       "Name": "rapidhealing",
       "Price": 10.0,
       "ID": 58,
-      "Mod": "Manual"
-    },
-    {
-      "Name": "drill",
-      "Price": 20.0,
-      "ID": 142,
       "Mod": "Manual"
     }
   ]
