@@ -1,12 +1,6 @@
 {
   "List": [
     {
-      "Name": "",
-      "Price": 99999.0,
-      "ID": 0,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "BlueSlime",
       "Price": 99.0,
       "ID": 1,
@@ -49,51 +43,15 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Devourer",
-      "Price": 414.0,
-      "ID": 8,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Devourer",
-      "Price": 414.0,
-      "ID": 9,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "GiantWorm",
       "Price": 110.0,
       "ID": 10,
       "Mod": "Vanilla"
     },
     {
-      "Name": "GiantWorm",
-      "Price": 110.0,
-      "ID": 11,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "GiantWorm",
-      "Price": 110.0,
-      "ID": 12,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "EaterofWorlds",
       "Price": 289.0,
       "ID": 13,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EaterofWorlds",
-      "Price": 289.0,
-      "ID": 14,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EaterofWorlds",
-      "Price": 289.0,
-      "ID": 15,
       "Mod": "Vanilla"
     },
     {
@@ -217,12 +175,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skeletron",
-      "Price": 4740.0,
-      "ID": 36,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "OldMan",
       "Price": 380.0,
       "ID": 37,
@@ -238,18 +190,6 @@
       "Name": "BoneSerpent",
       "Price": 570.0,
       "ID": 39,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "BoneSerpent",
-      "Price": 570.0,
-      "ID": 40,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "BoneSerpent",
-      "Price": 570.0,
-      "ID": 41,
       "Mod": "Vanilla"
     },
     {
@@ -457,12 +397,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "NPCName.None2",
-      "Price": 99999.0,
-      "ID": 76,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "ArmoredSkeleton",
       "Price": 716.0,
       "ID": 77,
@@ -529,36 +463,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Wyvern",
-      "Price": 4820.0,
-      "ID": 88,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Wyvern",
-      "Price": 4820.0,
-      "ID": 89,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Wyvern",
-      "Price": 4820.0,
-      "ID": 90,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Wyvern",
-      "Price": 4820.0,
-      "ID": 91,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Wyvern",
-      "Price": 4820.0,
-      "ID": 92,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "GiantBat",
       "Price": 582.0,
       "ID": 93,
@@ -577,33 +481,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Digger",
-      "Price": 670.0,
-      "ID": 96,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Digger",
-      "Price": 670.0,
-      "ID": 97,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "WorldFeeder",
       "Price": 1272.0,
       "ID": 98,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "WorldFeeder",
-      "Price": 1272.0,
-      "ID": 99,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "WorldFeeder",
-      "Price": 1272.0,
-      "ID": 100,
       "Mod": "Vanilla"
     },
     {
@@ -679,18 +559,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "WallofFlesh",
-      "Price": 8524.0,
-      "ID": 113,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "WallofFlesh",
-      "Price": 8524.0,
-      "ID": 114,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "TheHungry",
       "Price": 560.0,
       "ID": 115,
@@ -706,18 +574,6 @@
       "Name": "Leech",
       "Price": 324.0,
       "ID": 117,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Leech",
-      "Price": 324.0,
-      "ID": 118,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Leech",
-      "Price": 324.0,
-      "ID": 119,
       "Mod": "Vanilla"
     },
     {
@@ -769,30 +625,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "PrimeCannon",
-      "Price": 7346.0,
-      "ID": 128,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PrimeSaw",
-      "Price": 9636.0,
-      "ID": 129,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PrimeVice",
-      "Price": 9588.0,
-      "ID": 130,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PrimeLaser",
-      "Price": 6330.0,
-      "ID": 131,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Zombie",
       "Price": 197.0,
       "ID": 132,
@@ -808,18 +640,6 @@
       "Name": "TheDestroyer",
       "Price": 80700.0,
       "ID": 134,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "TheDestroyer",
-      "Price": 80700.0,
-      "ID": 135,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "TheDestroyer",
-      "Price": 80700.0,
-      "ID": 136,
       "Mod": "Vanilla"
     },
     {
@@ -874,12 +694,6 @@
       "Name": "SnowBalla",
       "Price": 814.0,
       "ID": 145,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "NPCName.None3",
-      "Price": 99999.0,
-      "ID": 146,
       "Mod": "Vanilla"
     },
     {
@@ -991,12 +805,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "WallCreeper",
-      "Price": 400.0,
-      "ID": 165,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "SwampThing",
       "Price": 1202.0,
       "ID": 166,
@@ -1024,12 +832,6 @@
       "Name": "Pigron",
       "Price": 942.0,
       "ID": 170,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Pigron",
-      "Price": 942.0,
-      "ID": 171,
       "Mod": "Vanilla"
     },
     {
@@ -1123,57 +925,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 187,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 188,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 189,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "DemonEye",
       "Price": 244.0,
       "ID": 190,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "DemonEye",
-      "Price": 244.0,
-      "ID": 191,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "DemonEye",
-      "Price": 244.0,
-      "ID": 192,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "DemonEye",
-      "Price": 244.0,
-      "ID": 193,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "DemonEye",
-      "Price": 244.0,
-      "ID": 194,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "LostGirl",
-      "Price": 410.0,
-      "ID": 195,
       "Mod": "Vanilla"
     },
     {
@@ -1195,33 +949,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Lihzahrd",
-      "Price": 820.0,
-      "ID": 199,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 200,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Skeleton",
       "Price": 276.0,
       "ID": 201,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 202,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 203,
       "Mod": "Vanilla"
     },
     {
@@ -1264,12 +994,6 @@
       "Name": "Bee",
       "Price": 230.0,
       "ID": 210,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Bee",
-      "Price": 230.0,
-      "ID": 211,
       "Mod": "Vanilla"
     },
     {
@@ -1393,39 +1117,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Hornet",
-      "Price": 332.0,
-      "ID": 232,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Hornet",
-      "Price": 332.0,
-      "ID": 233,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Hornet",
-      "Price": 332.0,
-      "ID": 234,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Hornet",
-      "Price": 332.0,
-      "ID": 235,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "JungleCreeper",
       "Price": 648.0,
       "ID": 236,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "JungleCreeper",
-      "Price": 648.0,
-      "ID": 237,
       "Mod": "Vanilla"
     },
     {
@@ -1438,12 +1132,6 @@
       "Name": "BloodCrawler",
       "Price": 376.0,
       "ID": 239,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "BloodCrawler",
-      "Price": 376.0,
-      "ID": 240,
       "Mod": "Vanilla"
     },
     {
@@ -1477,30 +1165,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "GolemHead",
-      "Price": 16680.0,
-      "ID": 246,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "GolemFist",
-      "Price": 7646.0,
-      "ID": 247,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "GolemFist",
-      "Price": 7646.0,
-      "ID": 248,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "GolemHead",
-      "Price": 16680.0,
-      "ID": 249,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "AngryNimbus",
       "Price": 848.0,
       "ID": 250,
@@ -1528,12 +1192,6 @@
       "Name": "SporeZombie",
       "Price": 600.0,
       "ID": 254,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "SporeZombie",
-      "Price": 600.0,
-      "ID": 255,
       "Mod": "Vanilla"
     },
     {
@@ -1579,18 +1237,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Plantera'sHook",
-      "Price": 4648.0,
-      "ID": 263,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Plantera'sTentacle",
-      "Price": 1640.0,
-      "ID": 264,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Spore",
       "Price": 701.0,
       "ID": 265,
@@ -1621,45 +1267,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "RustyArmoredBones",
-      "Price": 1318.0,
-      "ID": 270,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "RustyArmoredBones",
-      "Price": 1318.0,
-      "ID": 271,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "RustyArmoredBones",
-      "Price": 1318.0,
-      "ID": 272,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "BlueArmoredBones",
       "Price": 1050.0,
       "ID": 273,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "BlueArmoredBones",
-      "Price": 1050.0,
-      "ID": 274,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "BlueArmoredBones",
-      "Price": 1050.0,
-      "ID": 275,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "BlueArmoredBones",
-      "Price": 1050.0,
-      "ID": 276,
       "Mod": "Vanilla"
     },
     {
@@ -1669,33 +1279,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "HellArmoredBones",
-      "Price": 1164.0,
-      "ID": 278,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "HellArmoredBones",
-      "Price": 1164.0,
-      "ID": 279,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "HellArmoredBones",
-      "Price": 1164.0,
-      "ID": 280,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "RaggedCaster",
       "Price": 840.0,
       "ID": 281,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "RaggedCaster",
-      "Price": 840.0,
-      "ID": 282,
       "Mod": "Vanilla"
     },
     {
@@ -1705,21 +1291,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Necromancer",
-      "Price": 836.0,
-      "ID": 284,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Diabolist",
       "Price": 724.0,
       "ID": 285,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Diabolist",
-      "Price": 724.0,
-      "ID": 286,
       "Mod": "Vanilla"
     },
     {
@@ -1768,18 +1342,6 @@
       "Name": "AngryBones",
       "Price": 356.0,
       "ID": 294,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "AngryBones",
-      "Price": 356.0,
-      "ID": 295,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "AngryBones",
-      "Price": 356.0,
-      "ID": 296,
       "Mod": "Vanilla"
     },
     {
@@ -1837,60 +1399,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 306,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 307,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 308,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 309,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 310,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 311,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 312,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 313,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scarecrow",
-      "Price": 1136.0,
-      "ID": 314,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "HeadlessHorseman",
       "Price": 11380.0,
       "ID": 315,
@@ -1903,51 +1411,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "DemonEye",
-      "Price": 244.0,
-      "ID": 317,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "DemonEye",
-      "Price": 244.0,
-      "ID": 318,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Zombie",
       "Price": 197.0,
       "ID": 319,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 320,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 321,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 322,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 323,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 324,
       "Mod": "Vanilla"
     },
     {
@@ -1969,12 +1435,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Pumpking",
-      "Price": 22572.0,
-      "ID": 328,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Hellhound",
       "Price": 2076.0,
       "ID": 329,
@@ -1987,39 +1447,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 331,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 332,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Slime",
       "Price": 99.0,
       "ID": 333,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Slime",
-      "Price": 99.0,
-      "ID": 334,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Slime",
-      "Price": 99.0,
-      "ID": 335,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Slime",
-      "Price": 99.0,
-      "ID": 336,
       "Mod": "Vanilla"
     },
     {
@@ -2032,18 +1462,6 @@
       "Name": "ZombieElf",
       "Price": 1286.0,
       "ID": 338,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "ZombieElf",
-      "Price": 1286.0,
-      "ID": 339,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "ZombieElf",
-      "Price": 1286.0,
-      "ID": 340,
       "Mod": "Vanilla"
     },
     {
@@ -2092,12 +1510,6 @@
       "Name": "Nutcracker",
       "Price": 2652.0,
       "ID": 348,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Nutcracker",
-      "Price": 2652.0,
-      "ID": 349,
       "Mod": "Vanilla"
     },
     {
@@ -2179,33 +1591,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Duck",
-      "Price": 5.0,
-      "ID": 363,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Duck",
-      "Price": 5.0,
-      "ID": 364,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Duck",
-      "Price": 5.0,
-      "ID": 365,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Scorpion",
       "Price": 5.0,
       "ID": 366,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Scorpion",
-      "Price": 5.0,
-      "ID": 367,
       "Mod": "Vanilla"
     },
     {
@@ -2239,21 +1627,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Sharkron",
-      "Price": 1300.0,
-      "ID": 373,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "TruffleWorm",
       "Price": 5.0,
       "ID": 374,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "TruffleWorm",
-      "Price": 5.0,
-      "ID": 375,
       "Mod": "Vanilla"
     },
     {
@@ -2383,18 +1759,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "MoonLord'sHand",
-      "Price": 25080.0,
-      "ID": 397,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "MoonLord'sCore",
-      "Price": 50140.0,
-      "ID": 398,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "MartianProbe",
       "Price": 560.0,
       "ID": 399,
@@ -2419,39 +1783,15 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "NPCName.StardustWormBody",
-      "Price": 99999.0,
-      "ID": 403,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "NPCName.StardustWormTail",
-      "Price": 99999.0,
-      "ID": 404,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "StarCell",
       "Price": 1600.0,
       "ID": 405,
       "Mod": "Vanilla"
     },
     {
-      "Name": "StarCell",
-      "Price": 1600.0,
-      "ID": 406,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "FlowInvader",
       "Price": 2276.0,
       "ID": 407,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "NPCName.StardustJellyfishSmall",
-      "Price": 99999.0,
-      "ID": 408,
       "Mod": "Vanilla"
     },
     {
@@ -2476,18 +1816,6 @@
       "Name": "Crawltipede",
       "Price": 13500.0,
       "ID": 412,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Crawltipede",
-      "Price": 13500.0,
-      "ID": 413,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Crawltipede",
-      "Price": 13500.0,
-      "ID": 414,
       "Mod": "Vanilla"
     },
     {
@@ -2581,48 +1909,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 430,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "ZombieEskimo",
-      "Price": 226.0,
-      "ID": 431,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 432,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 433,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 434,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 435,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Zombie",
-      "Price": 197.0,
-      "ID": 436,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "MysteriousTablet",
       "Price": 400.0,
       "ID": 437,
@@ -2638,12 +1924,6 @@
       "Name": "LunaticCultist",
       "Price": 32584.0,
       "ID": 439,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "LunaticCultist",
-      "Price": 32584.0,
-      "ID": 440,
       "Mod": "Vanilla"
     },
     {
@@ -2695,30 +1975,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 449,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 450,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 451,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Skeleton",
-      "Price": 276.0,
-      "ID": 452,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "SkeletonMerchant",
       "Price": 410.0,
       "ID": 453,
@@ -2728,36 +1984,6 @@
       "Name": "PhantasmDragon",
       "Price": 4820.0,
       "ID": 454,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PhantasmDragon",
-      "Price": 4820.0,
-      "ID": 455,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PhantasmDragon",
-      "Price": 4820.0,
-      "ID": 456,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PhantasmDragon",
-      "Price": 4820.0,
-      "ID": 457,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PhantasmDragon",
-      "Price": 4820.0,
-      "ID": 458,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "PhantasmDragon",
-      "Price": 4820.0,
-      "ID": 459,
       "Mod": "Vanilla"
     },
     {
@@ -2929,12 +2155,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "TargetDummy",
-      "Price": 1000.0,
-      "ID": 488,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "BloodZombie",
       "Price": 291.0,
       "ID": 489,
@@ -2983,63 +2203,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "GiantShelly",
-      "Price": 234.0,
-      "ID": 497,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Salamander",
       "Price": 265.0,
       "ID": 498,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 499,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 500,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 501,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 502,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 503,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 504,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 505,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Salamander",
-      "Price": 265.0,
-      "ID": 506,
       "Mod": "Vanilla"
     },
     {
@@ -3139,12 +2305,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "AncientDoom",
-      "Price": 800.0,
-      "ID": 523,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Ghoul",
       "Price": 732.0,
       "ID": 524,
@@ -3184,12 +2344,6 @@
       "Name": "SandPoacher",
       "Price": 1028.0,
       "ID": 530,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "SandPoacher",
-      "Price": 1028.0,
-      "ID": 531,
       "Mod": "Vanilla"
     },
     {
@@ -3283,24 +2437,6 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "???",
-      "Price": 30.0,
-      "ID": 547,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EterniaCrystal",
-      "Price": 1028.0,
-      "ID": 548,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "MysteriousPortal",
-      "Price": 45.0,
-      "ID": 549,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Tavernkeep",
       "Price": 380.0,
       "ID": 550,
@@ -3337,33 +2473,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "EtherianGoblinBomber",
-      "Price": 342.0,
-      "ID": 556,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EtherianGoblinBomber",
-      "Price": 342.0,
-      "ID": 557,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "EtherianWyvern",
       "Price": 368.0,
       "ID": 558,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EtherianWyvern",
-      "Price": 368.0,
-      "ID": 559,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EtherianWyvern",
-      "Price": 368.0,
-      "ID": 560,
       "Mod": "Vanilla"
     },
     {
@@ -3373,27 +2485,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "EtherianJavelinThrower",
-      "Price": 396.0,
-      "ID": 562,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "EtherianJavelinThrower",
-      "Price": 396.0,
-      "ID": 563,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "DarkMage",
       "Price": 1236.0,
       "ID": 564,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "DarkMage",
-      "Price": 1236.0,
-      "ID": 565,
       "Mod": "Vanilla"
     },
     {
@@ -3403,21 +2497,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "OldOne'sSkeleton",
-      "Price": 229.0,
-      "ID": 567,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "WitherBeast",
       "Price": 1060.0,
       "ID": 568,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "WitherBeast",
-      "Price": 1060.0,
-      "ID": 569,
       "Mod": "Vanilla"
     },
     {
@@ -3433,39 +2515,15 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Kobold",
-      "Price": 912.0,
-      "ID": 572,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Kobold",
-      "Price": 912.0,
-      "ID": 573,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "KoboldGlider",
       "Price": 702.0,
       "ID": 574,
       "Mod": "Vanilla"
     },
     {
-      "Name": "KoboldGlider",
-      "Price": 702.0,
-      "ID": 575,
-      "Mod": "Vanilla"
-    },
-    {
       "Name": "Ogre",
       "Price": 5768.0,
       "ID": 576,
-      "Mod": "Vanilla"
-    },
-    {
-      "Name": "Ogre",
-      "Price": 5768.0,
-      "ID": 577,
       "Mod": "Vanilla"
     },
     {
