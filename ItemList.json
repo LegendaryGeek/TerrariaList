@@ -6050,367 +6050,367 @@
     },
     {
       "Name": "OrangeDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1008,
       "Mod": "Vanilla"
     },
     {
       "Name": "YellowDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1009,
       "Mod": "Vanilla"
     },
     {
       "Name": "LimeDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1010,
       "Mod": "Vanilla"
     },
     {
       "Name": "GreenDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1011,
       "Mod": "Vanilla"
     },
     {
       "Name": "TealDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1012,
       "Mod": "Vanilla"
     },
     {
       "Name": "CyanDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1013,
       "Mod": "Vanilla"
     },
     {
       "Name": "SkyBlueDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1014,
       "Mod": "Vanilla"
     },
     {
       "Name": "BlueDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1015,
       "Mod": "Vanilla"
     },
     {
       "Name": "PurpleDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1016,
       "Mod": "Vanilla"
     },
     {
       "Name": "VioletDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1017,
       "Mod": "Vanilla"
     },
     {
       "Name": "PinkDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1018,
       "Mod": "Vanilla"
     },
     {
       "Name": "RedandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1019,
       "Mod": "Vanilla"
     },
     {
       "Name": "OrangeandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1020,
       "Mod": "Vanilla"
     },
     {
       "Name": "YellowandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1021,
       "Mod": "Vanilla"
     },
     {
       "Name": "LimeandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1022,
       "Mod": "Vanilla"
     },
     {
       "Name": "GreenandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1023,
       "Mod": "Vanilla"
     },
     {
       "Name": "TealandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1024,
       "Mod": "Vanilla"
     },
     {
       "Name": "CyanandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1025,
       "Mod": "Vanilla"
     },
     {
       "Name": "SkyBlueandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1026,
       "Mod": "Vanilla"
     },
     {
       "Name": "BlueandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1027,
       "Mod": "Vanilla"
     },
     {
       "Name": "PurpleandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1028,
       "Mod": "Vanilla"
     },
     {
       "Name": "VioletandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1029,
       "Mod": "Vanilla"
     },
     {
       "Name": "PinkandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1030,
       "Mod": "Vanilla"
     },
     {
       "Name": "FlameDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1031,
       "Mod": "Vanilla"
     },
     {
       "Name": "FlameandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1032,
       "Mod": "Vanilla"
     },
     {
       "Name": "GreenFlameDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1033,
       "Mod": "Vanilla"
     },
     {
       "Name": "GreenFlameandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1034,
       "Mod": "Vanilla"
     },
     {
       "Name": "BlueFlameDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1035,
       "Mod": "Vanilla"
     },
     {
       "Name": "BlueFlameandBlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1036,
       "Mod": "Vanilla"
     },
     {
       "Name": "SilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1037,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightRedDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1038,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightOrangeDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1039,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightYellowDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1040,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightLimeDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1041,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightGreenDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1042,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightTealDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1043,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightCyanDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1044,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightSkyBlueDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1045,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightBlueDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1046,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightPurpleDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1047,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightVioletDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1048,
       "Mod": "Vanilla"
     },
     {
       "Name": "BrightPinkDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1049,
       "Mod": "Vanilla"
     },
     {
       "Name": "BlackDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1050,
       "Mod": "Vanilla"
     },
     {
       "Name": "RedandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1051,
       "Mod": "Vanilla"
     },
     {
       "Name": "OrangeandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1052,
       "Mod": "Vanilla"
     },
     {
       "Name": "YellowandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1053,
       "Mod": "Vanilla"
     },
     {
       "Name": "LimeandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1054,
       "Mod": "Vanilla"
     },
     {
       "Name": "GreenandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1055,
       "Mod": "Vanilla"
     },
     {
       "Name": "TealandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1056,
       "Mod": "Vanilla"
     },
     {
       "Name": "CyanandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1057,
       "Mod": "Vanilla"
     },
     {
       "Name": "SkyBlueandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1058,
       "Mod": "Vanilla"
     },
     {
       "Name": "BlueandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1059,
       "Mod": "Vanilla"
     },
     {
       "Name": "PurpleandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1060,
       "Mod": "Vanilla"
     },
     {
       "Name": "VioletandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1061,
       "Mod": "Vanilla"
     },
     {
       "Name": "PinkandSilverDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1062,
       "Mod": "Vanilla"
     },
     {
       "Name": "IntenseFlameDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1063,
       "Mod": "Vanilla"
     },
     {
       "Name": "IntenseGreenFlameDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1064,
       "Mod": "Vanilla"
     },
     {
       "Name": "IntenseBlueFlameDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1065,
       "Mod": "Vanilla"
     },
     {
       "Name": "RainbowDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1066,
       "Mod": "Vanilla"
     },
     {
       "Name": "IntenseRainbowDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1067,
       "Mod": "Vanilla"
     },
     {
       "Name": "YellowGradientDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1068,
       "Mod": "Vanilla"
     },
@@ -6422,13 +6422,13 @@
     },
     {
       "Name": "VioletGradientDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1070,
       "Mod": "Vanilla"
     },
     {
       "Name": "Paintbrush",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1071,
       "Mod": "Vanilla"
     },
