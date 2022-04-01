@@ -6044,7 +6044,7 @@
     },
     {
       "Name": "RedDye",
-      "Price": 10000.0,
+      "Price": 100.0,
       "ID": 1007,
       "Mod": "Vanilla"
     },
