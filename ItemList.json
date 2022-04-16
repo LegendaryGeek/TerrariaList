@@ -1357,9 +1357,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "LesserRestorationPotion",
+      "Name": "RestorationPotion",
       "Price": 1500.0,
-      "ID": 226,
+      "ID": 227,
       "Mod": "Vanilla"
     },
     {
@@ -4087,8 +4087,8 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "IceChest",
-      "Price": 5000.0,
+      "Name": "FrozenChest",
+      "Price": 2500.0,
       "ID": 681,
       "Mod": "Vanilla"
     },
@@ -4819,19 +4819,19 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "EskimoHood",
+      "Name": "SnowHood",
       "Price": 50000.0,
       "ID": 803,
       "Mod": "Vanilla"
     },
     {
-      "Name": "EskimoCoat",
+      "Name": "SnowCoat",
       "Price": 40000.0,
       "ID": 804,
       "Mod": "Vanilla"
     },
     {
-      "Name": "EskimoPants",
+      "Name": "SnowPants",
       "Price": 30000.0,
       "ID": 805,
       "Mod": "Vanilla"
@@ -5869,19 +5869,19 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "PinkEskimoHood",
+      "Name": "PinkSnowHood",
       "Price": 50000.0,
       "ID": 978,
       "Mod": "Vanilla"
     },
     {
-      "Name": "PinkEskimoCoat",
+      "Name": "PinkSnowCoat",
       "Price": 40000.0,
       "ID": 979,
       "Mod": "Vanilla"
     },
     {
-      "Name": "PinkEskimoPants",
+      "Name": "PinkSnowPants",
       "Price": 30000.0,
       "ID": 980,
       "Mod": "Vanilla"
@@ -6709,7 +6709,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "PurpleMucos",
+      "Name": "PurpleMucus",
       "Price": 10000.0,
       "ID": 1118,
       "Mod": "Vanilla"
@@ -7981,7 +7981,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Vertebrae",
+      "Name": "Vertebra",
       "Price": 12.0,
       "ID": 1330,
       "Mod": "Vanilla"
@@ -8371,8 +8371,8 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "OilRagSconse",
-      "Price": 10.0,
+      "Name": "OilRagSconce",
+      "Price": 150.0,
       "ID": 1395,
       "Mod": "Vanilla"
     },
@@ -9193,8 +9193,8 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "FrozenChest",
-      "Price": 2500.0,
+      "Name": "IceChest",
+      "Price": 5000.0,
       "ID": 1532,
       "Mod": "Vanilla"
     },
@@ -9583,7 +9583,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "MusicBox(Space)",
+      "Name": "MusicBox(SpaceNight)",
       "Price": 100000.0,
       "ID": 1597,
       "Mod": "Vanilla"
@@ -9625,7 +9625,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "MusicBox(Ocean)",
+      "Name": "MusicBox(OceanDay)",
       "Price": 100000.0,
       "ID": 1604,
       "Mod": "Vanilla"
@@ -9859,7 +9859,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "ZombieEskimoBanner",
+      "Name": "FrozenZombieBanner",
       "Price": 1000.0,
       "ID": 1643,
       "Mod": "Vanilla"
@@ -10909,7 +10909,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "SpookyPlatform",
+      "Name": "SpookyWoodPlatform",
       "Price": 10.0,
       "ID": 1818,
       "Mod": "Vanilla"
@@ -13675,7 +13675,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "GypsyRobe",
+      "Name": "MysticRobe",
       "Price": 35000.0,
       "ID": 2279,
       "Mod": "Vanilla"
@@ -14851,7 +14851,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "AmanitiaFungifin",
+      "Name": "AmanitaFungifin",
       "Price": 10.0,
       "ID": 2475,
       "Mod": "Vanilla"
@@ -14983,7 +14983,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "PillaginMePixels",
+      "Name": "Pillagin'MePixels",
       "Price": 25000.0,
       "ID": 2497,
       "Mod": "Vanilla"
@@ -16645,9 +16645,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
+      "Name": "VortexDrill",
+      "Price": 350000.0,
+      "ID": 2774,
       "Mod": "Vanilla"
     },
     {
@@ -16675,9 +16675,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
+      "Name": "NebulaDrill",
+      "Price": 350000.0,
+      "ID": 2779,
       "Mod": "Vanilla"
     },
     {
@@ -16705,9 +16705,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
+      "Name": "SolarFlareDrill",
+      "Price": 350000.0,
+      "ID": 2784,
       "Mod": "Vanilla"
     },
     {
@@ -17413,7 +17413,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "BlueCultistCasterBanner",
+      "Name": "LunaticDevoteeBanner",
       "Price": 1000.0,
       "ID": 2902,
       "Mod": "Vanilla"
@@ -18145,7 +18145,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skiphs'sBlood",
+      "Name": "Skiphs'Blood",
       "Price": 150000.0,
       "ID": 3024,
       "Mod": "Vanilla"
@@ -19639,9 +19639,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "SandstoneWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3273,
       "Mod": "Vanilla"
     },
     {
@@ -19909,91 +19909,91 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(KingSlime)",
       "Price": 10.0,
       "ID": 3318,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(EyeofCthulhu)",
       "Price": 10.0,
       "ID": 3319,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(EaterofWorlds)",
       "Price": 10.0,
       "ID": 3320,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(BrainofCthulhu)",
       "Price": 10.0,
       "ID": 3321,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(QueenBee)",
       "Price": 10.0,
       "ID": 3322,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(Skeletron)",
       "Price": 10.0,
       "ID": 3323,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(WallofFlesh)",
       "Price": 10.0,
       "ID": 3324,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(TheDestroyer)",
       "Price": 10.0,
       "ID": 3325,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(TheTwins)",
       "Price": 10.0,
       "ID": 3326,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(SkeletronPrime)",
       "Price": 10.0,
       "ID": 3327,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(Plantera)",
       "Price": 10.0,
       "ID": 3328,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(Golem)",
       "Price": 10.0,
       "ID": 3329,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(DukeFishron)",
       "Price": 10.0,
       "ID": 3330,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(LunaticCultist)",
       "Price": 10.0,
       "ID": 3331,
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(MoonLord)",
       "Price": 10.0,
       "ID": 3332,
       "Mod": "Vanilla"
@@ -20041,45 +20041,45 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "HardenedSandWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3340,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "HardenedEbonsandWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3341,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "HardenedCrimsandWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3342,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "HardenedPearlsandWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3343,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "EbonsandstoneWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3344,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "CrimsandstoneWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3345,
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
+      "Name": "PearlsandstoneWall",
       "Price": 10.0,
-      "ID": 0,
+      "ID": 3346,
       "Mod": "Vanilla"
     },
     {
@@ -20143,7 +20143,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "AncientCultistTrophy",
+      "Name": "LunaticCultistTrophy",
       "Price": 50000.0,
       "ID": 3357,
       "Mod": "Vanilla"
@@ -20233,8 +20233,8 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "AncientCultistMask",
-      "Price": 10.0,
+      "Name": "LunaticCultistMask",
+      "Price": 37500.0,
       "ID": 3372,
       "Mod": "Vanilla"
     },
@@ -20785,9 +20785,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
+      "Name": "StardustDrill",
+      "Price": 350000.0,
+      "ID": 3464,
       "Mod": "Vanilla"
     },
     {
@@ -21511,25 +21511,25 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skiphs'sMask",
-      "Price": 10.0,
+      "Name": "Skiphs'Mask",
+      "Price": 250000.0,
       "ID": 3585,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skiphs'sSkin",
-      "Price": 10.0,
+      "Name": "Skiphs'Skin",
+      "Price": 250000.0,
       "ID": 3586,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skiphs'sBearButt",
-      "Price": 10.0,
+      "Name": "Skiphs'BearButt",
+      "Price": 250000.0,
       "ID": 3587,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Skiphs'sPaws",
+      "Name": "Skiphs'Paws",
       "Price": 400000.0,
       "ID": 3588,
       "Mod": "Vanilla"
@@ -22033,7 +22033,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "TrappedIceChest",
+      "Name": "TrappedFrozenChest",
       "Price": 500.0,
       "ID": 3672,
       "Mod": "Vanilla"
@@ -22099,7 +22099,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "TrappedFrozenChest",
+      "Name": "TrappedIceChest",
       "Price": 500.0,
       "ID": 3683,
       "Mod": "Vanilla"
@@ -22339,7 +22339,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "UltraBrightCampfire",
+      "Name": "UltrabrightCampfire",
       "Price": 10.0,
       "ID": 3723,
       "Mod": "Vanilla"
@@ -22501,9 +22501,9 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "",
-      "Price": 10.0,
-      "ID": 0,
+      "Name": "SliceofCake",
+      "Price": 25000.0,
+      "ID": 3750,
       "Mod": "Vanilla"
     },
     {
@@ -22525,13 +22525,13 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Sandfall",
+      "Name": "SandfallBlock",
       "Price": 5.0,
       "ID": 3754,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Snowfall",
+      "Name": "SnowfallBlock",
       "Price": 10.0,
       "ID": 3755,
       "Mod": "Vanilla"
@@ -23161,7 +23161,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "TreasureBag",
+      "Name": "TreasureBag(Betsy)",
       "Price": 10.0,
       "ID": 3860,
       "Mod": "Vanilla"
@@ -23431,7 +23431,7 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "DynastyPlatform",
+      "Name": "DynastyWoodPlatform",
       "Price": 10.0,
       "ID": 3905,
       "Mod": "Vanilla"
@@ -23527,25 +23527,25 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "Arkhalis'sHood",
-      "Price": 10.0,
+      "Name": "Arkhalis'Hood",
+      "Price": 250000.0,
       "ID": 3921,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Arkhalis'sBodice",
-      "Price": 10.0,
+      "Name": "Arkhalis'Bodice",
+      "Price": 250000.0,
       "ID": 3922,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Arkhalis'sTights",
-      "Price": 10.0,
+      "Name": "Arkhalis'Tights",
+      "Price": 250000.0,
       "ID": 3923,
       "Mod": "Vanilla"
     },
     {
-      "Name": "Arkhalis'sLightwings",
+      "Name": "Arkhalis'Lightwings",
       "Price": 400000.0,
       "ID": 3924,
       "Mod": "Vanilla"
@@ -23581,220 +23581,7702 @@
       "Mod": "Vanilla"
     },
     {
-      "Name": "UnloadedItem",
-      "Price": 10.0,
+      "Name": "CelebrationMk2",
+      "Price": 500000.0,
       "ID": 3930,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+      "Mod": "Vanilla"
     },
     {
-      "Name": "StartingBag",
-      "Price": 10.0,
+      "Name": "SpiderBathtub",
+      "Price": 300.0,
       "ID": 3931,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderBed",
+      "Price": 2000.0,
+      "ID": 3932,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderBookcase",
+      "Price": 300.0,
+      "ID": 3933,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderDresser",
+      "Price": 300.0,
+      "ID": 3934,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderCandelabra",
+      "Price": 1500.0,
+      "ID": 3935,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderCandle",
+      "Price": 300.0,
+      "ID": 3936,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderChair",
+      "Price": 150.0,
+      "ID": 3937,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderChandelier",
+      "Price": 3000.0,
+      "ID": 3938,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderChest",
+      "Price": 500.0,
+      "ID": 3939,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderClock",
+      "Price": 300.0,
+      "ID": 3940,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderDoor",
+      "Price": 200.0,
+      "ID": 3941,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderLamp",
+      "Price": 500.0,
+      "ID": 3942,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderLantern",
+      "Price": 150.0,
+      "ID": 3943,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderPiano",
+      "Price": 300.0,
+      "ID": 3944,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderPlatform",
+      "Price": 10.0,
+      "ID": 3945,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderSink",
+      "Price": 300.0,
+      "ID": 3946,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderSofa",
+      "Price": 300.0,
+      "ID": 3947,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderTable",
+      "Price": 300.0,
+      "ID": 3948,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderWorkBench",
+      "Price": 150.0,
+      "ID": 3949,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedSpiderChest",
+      "Price": 500.0,
+      "ID": 3950,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IronBrick",
+      "Price": 10.0,
+      "ID": 3951,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IronBrickWall",
+      "Price": 10.0,
+      "ID": 3952,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LeadBrick",
+      "Price": 10.0,
+      "ID": 3953,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LeadBrickWall",
+      "Price": 10.0,
+      "ID": 3954,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionBlock",
+      "Price": 10.0,
+      "ID": 3955,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionBlockWall",
+      "Price": 10.0,
+      "ID": 3956,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionPlatform",
+      "Price": 10.0,
+      "ID": 3957,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionBathtub",
+      "Price": 300.0,
+      "ID": 3958,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionBed",
+      "Price": 2000.0,
+      "ID": 3959,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionBookcase",
+      "Price": 300.0,
+      "ID": 3960,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionCandelabra",
+      "Price": 1500.0,
+      "ID": 3961,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionCandle",
+      "Price": 300.0,
+      "ID": 3962,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionChair",
+      "Price": 150.0,
+      "ID": 3963,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionChandelier",
+      "Price": 3000.0,
+      "ID": 3964,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionChest",
+      "Price": 500.0,
+      "ID": 3965,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionClock",
+      "Price": 300.0,
+      "ID": 3966,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionDoor",
+      "Price": 200.0,
+      "ID": 3967,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionDresser",
+      "Price": 300.0,
+      "ID": 3968,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionLamp",
+      "Price": 500.0,
+      "ID": 3969,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionLantern",
+      "Price": 150.0,
+      "ID": 3970,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionPiano",
+      "Price": 300.0,
+      "ID": 3971,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionSink",
+      "Price": 300.0,
+      "ID": 3972,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionSofa",
+      "Price": 300.0,
+      "ID": 3973,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionTable",
+      "Price": 300.0,
+      "ID": 3974,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionWorkBench",
+      "Price": 150.0,
+      "ID": 3975,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedLesionChest",
+      "Price": 500.0,
+      "ID": 3976,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HatRack",
+      "Price": 10.0,
+      "ID": 3977,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "",
+      "Price": 10.0,
+      "ID": 0,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PearlwoodCrate",
+      "Price": 5000.0,
+      "ID": 3979,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MythrilCrate",
+      "Price": 25000.0,
+      "ID": 3980,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TitaniumCrate",
+      "Price": 100000.0,
+      "ID": 3981,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DefiledCrate",
+      "Price": 50000.0,
+      "ID": 3982,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HematicCrate",
+      "Price": 50000.0,
+      "ID": 3983,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StockadeCrate",
+      "Price": 50000.0,
+      "ID": 3984,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AzureCrate",
+      "Price": 50000.0,
+      "ID": 3985,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DivineCrate",
+      "Price": 50000.0,
+      "ID": 3986,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BrambleCrate",
+      "Price": 50000.0,
+      "ID": 3987,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeadMan'sChest",
+      "Price": 500.0,
+      "ID": 3988,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfBall",
+      "Price": 10000.0,
+      "ID": 3989,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmphibianBoots",
+      "Price": 100000.0,
+      "ID": 3990,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ArcaneFlower",
+      "Price": 500000.0,
+      "ID": 3991,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Berserker'sGlove",
+      "Price": 750000.0,
+      "ID": 3992,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FairyBoots",
+      "Price": 500000.0,
+      "ID": 3993,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrogFlipper",
+      "Price": 100000.0,
+      "ID": 3994,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrogGear",
+      "Price": 250000.0,
+      "ID": 3995,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrogWebbing",
+      "Price": 100000.0,
+      "ID": 3996,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrozenShield",
+      "Price": 500000.0,
+      "ID": 3997,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HeroShield",
+      "Price": 750000.0,
+      "ID": 3998,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagmaSkull",
+      "Price": 125000.0,
+      "ID": 3999,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagnetFlower",
+      "Price": 200000.0,
+      "ID": 4000,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ManaCloak",
+      "Price": 150000.0,
+      "ID": 4001,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MoltenQuiver",
+      "Price": 375000.0,
+      "ID": 4002,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MoltenSkullRose",
+      "Price": 250000.0,
+      "ID": 4003,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ObsidianSkullRose",
+      "Price": 150000.0,
+      "ID": 4004,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ReconScope",
+      "Price": 750000.0,
+      "ID": 4005,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Stalker'sQuiver",
+      "Price": 750000.0,
+      "ID": 4006,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StingerNecklace",
+      "Price": 150000.0,
+      "ID": 4007,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "UltrabrightHelmet",
+      "Price": 100000.0,
+      "ID": 4008,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Apple",
+      "Price": 10000.0,
+      "ID": 4009,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "",
+      "Price": 10.0,
+      "ID": 0,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ApplePie",
+      "Price": 30000.0,
+      "ID": 4011,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BananaSplit",
+      "Price": 10000.0,
+      "ID": 4012,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BBQRibs",
+      "Price": 50000.0,
+      "ID": 4013,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BunnyStew",
+      "Price": 10000.0,
+      "ID": 4014,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Burger",
+      "Price": 20000.0,
+      "ID": 4015,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChickenNugget",
+      "Price": 20000.0,
+      "ID": 4016,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChocolateChipCookie",
+      "Price": 30000.0,
+      "ID": 4017,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CreamSoda",
+      "Price": 20000.0,
+      "ID": 4018,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Escargot",
+      "Price": 10000.0,
+      "ID": 4019,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FriedEgg",
+      "Price": 20000.0,
+      "ID": 4020,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Fries",
+      "Price": 10000.0,
+      "ID": 4021,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldenDelight",
+      "Price": 500000.0,
+      "ID": 4022,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Grapes",
+      "Price": 20000.0,
+      "ID": 4023,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GrilledSquirrel",
+      "Price": 10000.0,
+      "ID": 4024,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Hotdog",
+      "Price": 30000.0,
+      "ID": 4025,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IceCream",
+      "Price": 20000.0,
+      "ID": 4026,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Milkshake",
+      "Price": 30000.0,
+      "ID": 4027,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Nachos",
+      "Price": 20000.0,
+      "ID": 4028,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Pizza",
+      "Price": 20000.0,
+      "ID": 4029,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PotatoChips",
+      "Price": 15000.0,
+      "ID": 4030,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoastedBird",
+      "Price": 10000.0,
+      "ID": 4031,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoastedDuck",
+      "Price": 10000.0,
+      "ID": 4032,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SauteedFrogLegs",
+      "Price": 10000.0,
+      "ID": 4033,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SeafoodDinner",
+      "Price": 5000.0,
+      "ID": 4034,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShrimpPo'Boy",
+      "Price": 25000.0,
+      "ID": 4035,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Spaghetti",
+      "Price": 20000.0,
+      "ID": 4036,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Steak",
+      "Price": 30000.0,
+      "ID": 4037,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MoltenCharm",
+      "Price": 375000.0,
+      "ID": 4038,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfClub(Iron)",
+      "Price": 10000.0,
+      "ID": 4039,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfCup",
+      "Price": 10000.0,
+      "ID": 4040,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4041,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagentaFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4042,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4043,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4044,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4045,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VioletFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4046,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WhiteFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4047,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TallGrassSeeds",
+      "Price": 500.0,
+      "ID": 4048,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LawnMower",
+      "Price": 10000.0,
+      "ID": 4049,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimstoneBrick",
+      "Price": 10.0,
+      "ID": 4050,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SmoothSandstone",
+      "Price": 10.0,
+      "ID": 4051,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimstoneBrickWall",
+      "Price": 10.0,
+      "ID": 4052,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SmoothSandstoneWall",
+      "Price": 10.0,
+      "ID": 4053,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodMoonMonolith",
+      "Price": 50000.0,
+      "ID": 4054,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DuneriderBoots",
+      "Price": 50000.0,
+      "ID": 4055,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientChisel",
+      "Price": 50000.0,
+      "ID": 4056,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RainSong",
+      "Price": 10000.0,
+      "ID": 4057,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "",
+      "Price": 10.0,
+      "ID": 0,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FossilPickaxe",
+      "Price": 15000.0,
+      "ID": 4059,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SuperStarShooter",
+      "Price": 500000.0,
+      "ID": 4060,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StormSpear",
+      "Price": 15000.0,
+      "ID": 4061,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ThunderZapper",
+      "Price": 15000.0,
+      "ID": 4062,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DrumSet",
+      "Price": 100000.0,
+      "ID": 4063,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PicnicTable",
+      "Price": 400.0,
+      "ID": 4064,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FancyPicnicTable",
+      "Price": 500.0,
+      "ID": 4065,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertMinecart",
+      "Price": 25000.0,
+      "ID": 4066,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Minecarp",
+      "Price": 50000.0,
+      "ID": 4067,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkFairy",
+      "Price": 50000.0,
+      "ID": 4068,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenFairy",
+      "Price": 50000.0,
+      "ID": 4069,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueFairy",
+      "Price": 50000.0,
+      "ID": 4070,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JunoniaShell",
+      "Price": 50000.0,
+      "ID": 4071,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LightningWhelkShell",
+      "Price": 10000.0,
+      "ID": 4072,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TulipShell",
+      "Price": 10000.0,
+      "ID": 4073,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinWheel",
+      "Price": 2000.0,
+      "ID": 4074,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WeatherVane",
+      "Price": 5000.0,
+      "ID": 4075,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VoidVault",
+      "Price": 100000.0,
+      "ID": 4076,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(OceanNight)",
+      "Price": 100000.0,
+      "ID": 4077,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(SlimeRain)",
+      "Price": 100000.0,
+      "ID": 4078,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(SpaceDay)",
+      "Price": 100000.0,
+      "ID": 4079,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(TownDay)",
+      "Price": 100000.0,
+      "ID": 4080,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(TownNight)",
+      "Price": 100000.0,
+      "ID": 4081,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(WindyDay)",
+      "Price": 100000.0,
+      "ID": 4082,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WhitePinFlag",
+      "Price": 2000.0,
+      "ID": 4083,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedPinFlag",
+      "Price": 2000.0,
+      "ID": 4084,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenPinFlag",
+      "Price": 2000.0,
+      "ID": 4085,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BluePinFlag",
+      "Price": 2000.0,
+      "ID": 4086,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowPinFlag",
+      "Price": 2000.0,
+      "ID": 4087,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PurplePinFlag",
+      "Price": 2000.0,
+      "ID": 4088,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfTee",
+      "Price": 10000.0,
+      "ID": 4089,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShellPile",
+      "Price": 10.0,
+      "ID": 4090,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Anti-PortalBlock",
+      "Price": 100.0,
+      "ID": 4091,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfClub(Putter)",
+      "Price": 10000.0,
+      "ID": 4092,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfClub(Wedge)",
+      "Price": 10000.0,
+      "ID": 4093,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfClub(Driver)",
+      "Price": 10000.0,
+      "ID": 4094,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfWhistle",
+      "Price": 100000.0,
+      "ID": 4095,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EbonwoodToilet",
+      "Price": 150.0,
+      "ID": 4096,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RichMahoganyToilet",
+      "Price": 150.0,
+      "ID": 4097,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PearlwoodToilet",
+      "Price": 150.0,
+      "ID": 4098,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LivingWoodToilet",
+      "Price": 150.0,
+      "ID": 4099,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CactusToilet",
+      "Price": 150.0,
+      "ID": 4100,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BoneToilet",
+      "Price": 150.0,
+      "ID": 4101,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FleshToilet",
+      "Price": 150.0,
+      "ID": 4102,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MushroomToilet",
+      "Price": 150.0,
+      "ID": 4103,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SkywareToilet",
+      "Price": 150.0,
+      "ID": 4104,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShadewoodToilet",
+      "Price": 150.0,
+      "ID": 4105,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LihzahrdToilet",
+      "Price": 150.0,
+      "ID": 4106,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueDungeonToilet",
+      "Price": 150.0,
+      "ID": 4107,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenDungeonToilet",
+      "Price": 150.0,
+      "ID": 4108,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkDungeonToilet",
+      "Price": 150.0,
+      "ID": 4109,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ObsidianToilet",
+      "Price": 150.0,
+      "ID": 4110,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrozenToilet",
+      "Price": 150.0,
+      "ID": 4111,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GlassToilet",
+      "Price": 150.0,
+      "ID": 4112,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HoneyToilet",
+      "Price": 150.0,
+      "ID": 4113,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SteampunkToilet",
+      "Price": 150.0,
+      "ID": 4114,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PumpkinToilet",
+      "Price": 150.0,
+      "ID": 4115,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpookyToilet",
+      "Price": 150.0,
+      "ID": 4116,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DynastyToilet",
+      "Price": 150.0,
+      "ID": 4117,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PalmWoodToilet",
+      "Price": 150.0,
+      "ID": 4118,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BorealWoodToilet",
+      "Price": 150.0,
+      "ID": 4119,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SlimeToilet",
+      "Price": 150.0,
+      "ID": 4120,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MartianToilet",
+      "Price": 150.0,
+      "ID": 4121,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GraniteToilet",
+      "Price": 150.0,
+      "ID": 4122,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MarbleToilet",
+      "Price": 150.0,
+      "ID": 4123,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrystalToilet",
+      "Price": 150.0,
+      "ID": 4124,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderToilet",
+      "Price": 150.0,
+      "ID": 4125,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesionToilet",
+      "Price": 150.0,
+      "ID": 4126,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondToilet",
+      "Price": 100000.0,
+      "ID": 4127,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MaidBonnet",
+      "Price": 25000.0,
+      "ID": 4128,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MaidDress",
+      "Price": 25000.0,
+      "ID": 4129,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MaidShoes",
+      "Price": 25000.0,
+      "ID": 4130,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VoidBag",
+      "Price": 100000.0,
+      "ID": 4131,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkMaidBonnet",
+      "Price": 25000.0,
+      "ID": 4132,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkMaidDress",
+      "Price": 25000.0,
+      "ID": 4133,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkMaidShoes",
+      "Price": 25000.0,
+      "ID": 4134,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CountryClubCap",
+      "Price": 25000.0,
+      "ID": 4135,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CountryClubVest",
+      "Price": 25000.0,
+      "ID": 4136,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CountryClubTrousers",
+      "Price": 25000.0,
+      "ID": 4137,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CountryClubVisor",
+      "Price": 25000.0,
+      "ID": 4138,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderNestBlock",
+      "Price": 10.0,
+      "ID": 4139,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderNestWall",
+      "Price": 10.0,
+      "ID": 4140,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MeteorToilet",
+      "Price": 150.0,
+      "ID": 4141,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DecayChamber",
+      "Price": 100000.0,
+      "ID": 4142,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "",
+      "Price": 10.0,
+      "ID": 4143,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Terragrim",
+      "Price": 250000.0,
+      "ID": 4144,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarBathtub",
+      "Price": 300.0,
+      "ID": 4145,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarBed",
+      "Price": 2000.0,
+      "ID": 4146,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarBookcase",
+      "Price": 300.0,
+      "ID": 4147,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarDresser",
+      "Price": 300.0,
+      "ID": 4148,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarCandelabra",
+      "Price": 1500.0,
+      "ID": 4149,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarCandle",
+      "Price": 300.0,
+      "ID": 4150,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarChair",
+      "Price": 150.0,
+      "ID": 4151,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarChandelier",
+      "Price": 3000.0,
+      "ID": 4152,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarChest",
+      "Price": 500.0,
+      "ID": 4153,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarClock",
+      "Price": 300.0,
+      "ID": 4154,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarDoor",
+      "Price": 200.0,
+      "ID": 4155,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarLamp",
+      "Price": 500.0,
+      "ID": 4156,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarLantern",
+      "Price": 150.0,
+      "ID": 4157,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarPiano",
+      "Price": 300.0,
+      "ID": 4158,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarPlatform",
+      "Price": 10.0,
+      "ID": 4159,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarSink",
+      "Price": 300.0,
+      "ID": 4160,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarSofa",
+      "Price": 300.0,
+      "ID": 4161,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarTable",
+      "Price": 300.0,
+      "ID": 4162,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarWorkBench",
+      "Price": 150.0,
+      "ID": 4163,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedSolarChest",
+      "Price": 500.0,
+      "ID": 4164,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarToilet",
+      "Price": 150.0,
+      "ID": 4165,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexBathtub",
+      "Price": 300.0,
+      "ID": 4166,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexBed",
+      "Price": 2000.0,
+      "ID": 4167,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexBookcase",
+      "Price": 300.0,
+      "ID": 4168,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexDresser",
+      "Price": 300.0,
+      "ID": 4169,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexCandelabra",
+      "Price": 1500.0,
+      "ID": 4170,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexCandle",
+      "Price": 300.0,
+      "ID": 4171,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexChair",
+      "Price": 150.0,
+      "ID": 4172,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexChandelier",
+      "Price": 3000.0,
+      "ID": 4173,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexChest",
+      "Price": 500.0,
+      "ID": 4174,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexClock",
+      "Price": 300.0,
+      "ID": 4175,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexDoor",
+      "Price": 200.0,
+      "ID": 4176,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexLamp",
+      "Price": 500.0,
+      "ID": 4177,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexLantern",
+      "Price": 150.0,
+      "ID": 4178,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexPiano",
+      "Price": 300.0,
+      "ID": 4179,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexPlatform",
+      "Price": 10.0,
+      "ID": 4180,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexSink",
+      "Price": 300.0,
+      "ID": 4181,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexSofa",
+      "Price": 300.0,
+      "ID": 4182,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexTable",
+      "Price": 300.0,
+      "ID": 4183,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexWorkBench",
+      "Price": 150.0,
+      "ID": 4184,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedVortexChest",
+      "Price": 500.0,
+      "ID": 4185,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexToilet",
+      "Price": 150.0,
+      "ID": 4186,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaBathtub",
+      "Price": 300.0,
+      "ID": 4187,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaBed",
+      "Price": 2000.0,
+      "ID": 4188,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaBookcase",
+      "Price": 300.0,
+      "ID": 4189,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaDresser",
+      "Price": 300.0,
+      "ID": 4190,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaCandelabra",
+      "Price": 1500.0,
+      "ID": 4191,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaCandle",
+      "Price": 300.0,
+      "ID": 4192,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaChair",
+      "Price": 150.0,
+      "ID": 4193,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaChandelier",
+      "Price": 3000.0,
+      "ID": 4194,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaChest",
+      "Price": 500.0,
+      "ID": 4195,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaClock",
+      "Price": 300.0,
+      "ID": 4196,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaDoor",
+      "Price": 200.0,
+      "ID": 4197,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaLamp",
+      "Price": 500.0,
+      "ID": 4198,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaLantern",
+      "Price": 150.0,
+      "ID": 4199,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaPiano",
+      "Price": 300.0,
+      "ID": 4200,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaPlatform",
+      "Price": 10.0,
+      "ID": 4201,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaSink",
+      "Price": 300.0,
+      "ID": 4202,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaSofa",
+      "Price": 300.0,
+      "ID": 4203,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaTable",
+      "Price": 300.0,
+      "ID": 4204,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaWorkBench",
+      "Price": 150.0,
+      "ID": 4205,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedNebulaChest",
+      "Price": 500.0,
+      "ID": 4206,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaToilet",
+      "Price": 150.0,
+      "ID": 4207,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustBathtub",
+      "Price": 300.0,
+      "ID": 4208,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustBed",
+      "Price": 2000.0,
+      "ID": 4209,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustBookcase",
+      "Price": 300.0,
+      "ID": 4210,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustDresser",
+      "Price": 300.0,
+      "ID": 4211,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustCandelabra",
+      "Price": 1500.0,
+      "ID": 4212,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustCandle",
+      "Price": 300.0,
+      "ID": 4213,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustChair",
+      "Price": 150.0,
+      "ID": 4214,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustChandelier",
+      "Price": 3000.0,
+      "ID": 4215,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustChest",
+      "Price": 500.0,
+      "ID": 4216,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustClock",
+      "Price": 300.0,
+      "ID": 4217,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustDoor",
+      "Price": 200.0,
+      "ID": 4218,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustLamp",
+      "Price": 500.0,
+      "ID": 4219,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustLantern",
+      "Price": 150.0,
+      "ID": 4220,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustPiano",
+      "Price": 300.0,
+      "ID": 4221,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustPlatform",
+      "Price": 10.0,
+      "ID": 4222,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustSink",
+      "Price": 300.0,
+      "ID": 4223,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustSofa",
+      "Price": 300.0,
+      "ID": 4224,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustTable",
+      "Price": 300.0,
+      "ID": 4225,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustWorkBench",
+      "Price": 150.0,
+      "ID": 4226,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedStardustChest",
+      "Price": 500.0,
+      "ID": 4227,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustToilet",
+      "Price": 150.0,
+      "ID": 4228,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarBrick",
+      "Price": 10.0,
+      "ID": 4229,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexBrick",
+      "Price": 10.0,
+      "ID": 4230,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaBrick",
+      "Price": 10.0,
+      "ID": 4231,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustBrick",
+      "Price": 10.0,
+      "ID": 4232,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SolarBrickWall",
+      "Price": 10.0,
+      "ID": 4233,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VortexBrickWall",
+      "Price": 10.0,
+      "ID": 4234,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "NebulaBrickWall",
+      "Price": 10.0,
+      "ID": 4235,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StardustBrickWall",
+      "Price": 10.0,
+      "ID": 4236,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(DayRemix)",
+      "Price": 100000.0,
+      "ID": 4237,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrackedBlueBrick",
+      "Price": 10.0,
+      "ID": 4238,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrackedGreenBrick",
+      "Price": 10.0,
+      "ID": 4239,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrackedPinkBrick",
+      "Price": 10.0,
+      "ID": 4240,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WildFlowerSeeds",
+      "Price": 500.0,
+      "ID": 4241,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackGolfBall",
+      "Price": 10000.0,
+      "ID": 4242,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueGolfBall",
+      "Price": 10000.0,
+      "ID": 4243,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BrownGolfBall",
+      "Price": 10000.0,
+      "ID": 4244,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CyanGolfBall",
+      "Price": 10000.0,
+      "ID": 4245,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenGolfBall",
+      "Price": 10000.0,
+      "ID": 4246,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LimeGolfBall",
+      "Price": 10000.0,
+      "ID": 4247,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangeGolfBall",
+      "Price": 10000.0,
+      "ID": 4248,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkGolfBall",
+      "Price": 10000.0,
+      "ID": 4249,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PurpleGolfBall",
+      "Price": 10000.0,
+      "ID": 4250,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedGolfBall",
+      "Price": 10000.0,
+      "ID": 4251,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SkyBlueGolfBall",
+      "Price": 10000.0,
+      "ID": 4252,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TealGolfBall",
+      "Price": 10000.0,
+      "ID": 4253,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VioletGolfBall",
+      "Price": 10000.0,
+      "ID": 4254,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowGolfBall",
+      "Price": 10000.0,
+      "ID": 4255,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberRobe",
+      "Price": 150000.0,
+      "ID": 4256,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberHook",
+      "Price": 20000.0,
+      "ID": 4257,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangePhaseblade",
+      "Price": 27000.0,
+      "ID": 4258,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangePhasesaber",
+      "Price": 50000.0,
+      "ID": 4259,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangeStainedGlass",
+      "Price": 800.0,
+      "ID": 4260,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangePressurePlate",
+      "Price": 5000.0,
+      "ID": 4261,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SnakeCharmer'sFlute",
+      "Price": 50000.0,
+      "ID": 4262,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagicConch",
+      "Price": 50000.0,
+      "ID": 4263,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfCartKeys",
+      "Price": 500000.0,
+      "ID": 4264,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolfChest",
+      "Price": 30000.0,
+      "ID": 4265,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedGolfChest",
+      "Price": 500.0,
+      "ID": 4266,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneChest",
+      "Price": 500.0,
+      "ID": 4267,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedSandstoneChest",
+      "Price": 500.0,
+      "ID": 4268,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SanguineStaff",
+      "Price": 250000.0,
+      "ID": 4269,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodThorn",
+      "Price": 200000.0,
+      "ID": 4270,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodyTear",
+      "Price": 10.0,
+      "ID": 4271,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DripplerCrippler",
+      "Price": 200000.0,
+      "ID": 4272,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VampireFrogStaff",
+      "Price": 50000.0,
+      "ID": 4273,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldGoldfish",
+      "Price": 500000.0,
+      "ID": 4274,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldFishBowl",
+      "Price": 500000.0,
+      "ID": 4275,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BastStatue",
+      "Price": 100000.0,
+      "ID": 4276,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldStarryBlock",
+      "Price": 10.0,
+      "ID": 4277,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueStarryBlock",
+      "Price": 10.0,
+      "ID": 4278,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldStarryWall",
+      "Price": 10.0,
+      "ID": 4279,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueStarryWall",
+      "Price": 10.0,
+      "ID": 4280,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FinchStaff",
+      "Price": 50000.0,
+      "ID": 4281,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Apricot",
+      "Price": 10000.0,
+      "ID": 4282,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Banana",
+      "Price": 10000.0,
+      "ID": 4283,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Blackcurrant",
+      "Price": 10000.0,
+      "ID": 4284,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodOrange",
+      "Price": 10000.0,
+      "ID": 4285,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Cherry",
+      "Price": 10000.0,
+      "ID": 4286,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Coconut",
+      "Price": 10000.0,
+      "ID": 4287,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DragonFruit",
+      "Price": 10000.0,
+      "ID": 4288,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Elderberry",
+      "Price": 10000.0,
+      "ID": 4289,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Grapefruit",
+      "Price": 10000.0,
+      "ID": 4290,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Lemon",
+      "Price": 10000.0,
+      "ID": 4291,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Mango",
+      "Price": 10000.0,
+      "ID": 4292,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Peach",
+      "Price": 10000.0,
+      "ID": 4293,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Pineapple",
+      "Price": 10000.0,
+      "ID": 4294,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Plum",
+      "Price": 10000.0,
+      "ID": 4295,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Rambutan",
+      "Price": 10000.0,
+      "ID": 4296,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StarFruit",
+      "Price": 10000.0,
+      "ID": 4297,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneBathtub",
+      "Price": 300.0,
+      "ID": 4298,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneBed",
+      "Price": 2000.0,
+      "ID": 4299,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneBookcase",
+      "Price": 300.0,
+      "ID": 4300,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneDresser",
+      "Price": 300.0,
+      "ID": 4301,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneCandelabra",
+      "Price": 1500.0,
+      "ID": 4302,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneCandle",
+      "Price": 300.0,
+      "ID": 4303,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneChair",
+      "Price": 150.0,
+      "ID": 4304,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneChandelier",
+      "Price": 3000.0,
+      "ID": 4305,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneClock",
+      "Price": 300.0,
+      "ID": 4306,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneDoor",
+      "Price": 200.0,
+      "ID": 4307,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneLamp",
+      "Price": 500.0,
+      "ID": 4308,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneLantern",
+      "Price": 150.0,
+      "ID": 4309,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstonePiano",
+      "Price": 300.0,
+      "ID": 4310,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstonePlatform",
+      "Price": 10.0,
+      "ID": 4311,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneSink",
+      "Price": 300.0,
+      "ID": 4312,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneSofa",
+      "Price": 300.0,
+      "ID": 4313,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneTable",
+      "Price": 300.0,
+      "ID": 4314,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneWorkBench",
+      "Price": 150.0,
+      "ID": 4315,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneToilet",
+      "Price": 150.0,
+      "ID": 4316,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Haemorrhaxe",
+      "Price": 100000.0,
+      "ID": 4317,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VoidMonolith",
+      "Price": 1250000.0,
+      "ID": 4318,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ArrowSign",
+      "Price": 2000.0,
+      "ID": 4319,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PaintedArrowSign",
+      "Price": 2000.0,
+      "ID": 4320,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MasterGamer'sJacket",
+      "Price": 50000.0,
+      "ID": 4321,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MasterGamer'sPants",
+      "Price": 50000.0,
+      "ID": 4322,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StarPrincessCrown",
+      "Price": 500000.0,
+      "ID": 4323,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StarPrincessDress",
+      "Price": 500000.0,
+      "ID": 4324,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChumCaster",
+      "Price": 100000.0,
+      "ID": 4325,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Plate",
+      "Price": 150.0,
+      "ID": 4326,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackDragonflyJar",
+      "Price": 10.0,
+      "ID": 4327,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueDragonflyJar",
+      "Price": 10.0,
+      "ID": 4328,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenDragonflyJar",
+      "Price": 10.0,
+      "ID": 4329,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangeDragonflyJar",
+      "Price": 10.0,
+      "ID": 4330,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedDragonflyJar",
+      "Price": 10.0,
+      "ID": 4331,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowDragonflyJar",
+      "Price": 10.0,
+      "ID": 4332,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldDragonflyJar",
+      "Price": 500000.0,
+      "ID": 4333,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackDragonfly",
+      "Price": 5000.0,
+      "ID": 4334,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueDragonfly",
+      "Price": 5000.0,
+      "ID": 4335,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenDragonfly",
+      "Price": 5000.0,
+      "ID": 4336,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangeDragonfly",
+      "Price": 5000.0,
+      "ID": 4337,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedDragonfly",
+      "Price": 5000.0,
+      "ID": 4338,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowDragonfly",
+      "Price": 5000.0,
+      "ID": 4339,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldDragonfly",
+      "Price": 500000.0,
+      "ID": 4340,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StepStool",
+      "Price": 50000.0,
+      "ID": 4341,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DragonflyStatue",
+      "Price": 300.0,
+      "ID": 4342,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PaperAirplane",
+      "Price": 5000.0,
+      "ID": 4343,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WhitePaperAirplane",
+      "Price": 5000.0,
+      "ID": 4344,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CanOfWorms",
+      "Price": 2500.0,
+      "ID": 4345,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EncumberingStone",
+      "Price": 50000.0,
+      "ID": 4346,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GrayZapinator",
+      "Price": 170000.0,
+      "ID": 4347,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrangeZapinator",
+      "Price": 500000.0,
+      "ID": 4348,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenMoss",
+      "Price": 10.0,
+      "ID": 4349,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BrownMoss",
+      "Price": 10.0,
+      "ID": 4350,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedMoss",
+      "Price": 10.0,
+      "ID": 4351,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueMoss",
+      "Price": 10.0,
+      "ID": 4352,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PurpleMoss",
+      "Price": 10.0,
+      "ID": 4353,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaMoss",
+      "Price": 10.0,
+      "ID": 4354,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BoulderStatue",
+      "Price": 300.0,
+      "ID": 4355,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Journey'sBeginning)",
+      "Price": 100000.0,
+      "ID": 4356,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Storm)",
+      "Price": 100000.0,
+      "ID": 4357,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Graveyard)",
+      "Price": 100000.0,
+      "ID": 4358,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Seagull",
+      "Price": 3750.0,
+      "ID": 4359,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SeagullStatue",
+      "Price": 300.0,
+      "ID": 4360,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ladybug",
+      "Price": 5000.0,
+      "ID": 4361,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldLadybug",
+      "Price": 500000.0,
+      "ID": 4362,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Maggot",
+      "Price": 2500.0,
+      "ID": 4363,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MaggotCage",
+      "Price": 10.0,
+      "ID": 4364,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CelestialWand",
+      "Price": 1000000.0,
+      "ID": 4365,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EucalyptusSap",
+      "Price": 100000.0,
+      "ID": 4366,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueKite",
+      "Price": 20000.0,
+      "ID": 4367,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueandYellowKite",
+      "Price": 20000.0,
+      "ID": 4368,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedKite",
+      "Price": 20000.0,
+      "ID": 4369,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedandYellowKite",
+      "Price": 20000.0,
+      "ID": 4370,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowKite",
+      "Price": 20000.0,
+      "ID": 4371,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ivy",
+      "Price": 10000.0,
+      "ID": 4372,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Pupfish",
+      "Price": 3750.0,
+      "ID": 4373,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Grebe",
+      "Price": 3750.0,
+      "ID": 4374,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Rat",
+      "Price": 5000.0,
+      "ID": 4375,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RatCage",
+      "Price": 10.0,
+      "ID": 4376,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "KryptonMoss",
+      "Price": 10.0,
+      "ID": 4377,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "XenonMoss",
+      "Price": 10.0,
+      "ID": 4378,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WyvernKite",
+      "Price": 20000.0,
+      "ID": 4379,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LadybugCage",
+      "Price": 10.0,
+      "ID": 4380,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodRainBow",
+      "Price": 50000.0,
+      "ID": 4381,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AdvancedCombatTechniques",
+      "Price": 10.0,
+      "ID": 4382,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertTorch",
+      "Price": 60.0,
+      "ID": 4383,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CoralTorch",
+      "Price": 60.0,
+      "ID": 4384,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptTorch",
+      "Price": 60.0,
+      "ID": 4385,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonTorch",
+      "Price": 60.0,
+      "ID": 4386,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedTorch",
+      "Price": 60.0,
+      "ID": 4387,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JungleTorch",
+      "Price": 60.0,
+      "ID": 4388,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ArgonMoss",
+      "Price": 10.0,
+      "ID": 4389,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RollingCactus",
+      "Price": 10.0,
+      "ID": 4390,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ThinIce",
+      "Price": 10.0,
+      "ID": 4391,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EchoBlock",
+      "Price": 1000.0,
+      "ID": 4392,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ScarabFish",
+      "Price": 10.0,
+      "ID": 4393,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ScorpioFish",
+      "Price": 10.0,
+      "ID": 4394,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Owl",
+      "Price": 5000.0,
+      "ID": 4395,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OwlCage",
+      "Price": 10.0,
+      "ID": 4396,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OwlStatue",
+      "Price": 300.0,
+      "ID": 4397,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PupfishBowl",
+      "Price": 10000.0,
+      "ID": 4398,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldLadybugCage",
+      "Price": 500000.0,
+      "ID": 4399,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Geode",
+      "Price": 2500.0,
+      "ID": 4400,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Flounder",
+      "Price": 750.0,
+      "ID": 4401,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RockLobster",
+      "Price": 5000.0,
+      "ID": 4402,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LobsterTail",
+      "Price": 10000.0,
+      "ID": 4403,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "InnerTube",
+      "Price": 10000.0,
+      "ID": 4404,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrozenCrate",
+      "Price": 50000.0,
+      "ID": 4405,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BorealCrate",
+      "Price": 50000.0,
+      "ID": 4406,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OasisCrate",
+      "Price": 50000.0,
+      "ID": 4407,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MirageCrate",
+      "Price": 50000.0,
+      "ID": 4408,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpectreGoggles",
+      "Price": 100000.0,
+      "ID": 4409,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Oyster",
+      "Price": 500.0,
+      "ID": 4410,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShuckedOyster",
+      "Price": 10000.0,
+      "ID": 4411,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WhitePearl",
+      "Price": 50000.0,
+      "ID": 4412,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackPearl",
+      "Price": 150000.0,
+      "ID": 4413,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkPearl",
+      "Price": 750000.0,
+      "ID": 4414,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StoneDoor",
+      "Price": 200.0,
+      "ID": 4415,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StonePlatform",
+      "Price": 10.0,
+      "ID": 4416,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OasisWaterFountain",
+      "Price": 40000.0,
+      "ID": 4417,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WaterStrider",
+      "Price": 5000.0,
+      "ID": 4418,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldWaterStrider",
+      "Price": 500000.0,
+      "ID": 4419,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LawnFlamingo",
+      "Price": 50000.0,
+      "ID": 4420,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(UndergroundJungle)",
+      "Price": 100000.0,
+      "ID": 4421,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Grate",
+      "Price": 10.0,
+      "ID": 4422,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ScarabBomb",
+      "Price": 1500.0,
+      "ID": 4423,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WroughtIronFence",
+      "Price": 10.0,
+      "ID": 4424,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SharkBait",
+      "Price": 50000.0,
+      "ID": 4425,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BeeMinecart",
+      "Price": 50000.0,
+      "ID": 4426,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LadybugMinecart",
+      "Price": 25000.0,
+      "ID": 4427,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PigronMinecart",
+      "Price": 50000.0,
+      "ID": 4428,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SunflowerMinecart",
+      "Price": 25000.0,
+      "ID": 4429,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedForestCedar",
+      "Price": 30000.0,
+      "ID": 4430,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedJungleCedar",
+      "Price": 30000.0,
+      "ID": 4431,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedHallowCedar",
+      "Price": 30000.0,
+      "ID": 4432,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedForestTree",
+      "Price": 30000.0,
+      "ID": 4433,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedJungleTree",
+      "Price": 30000.0,
+      "ID": 4434,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedHallowTree",
+      "Price": 30000.0,
+      "ID": 4435,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedForestPalm",
+      "Price": 30000.0,
+      "ID": 4436,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedJunglePalm",
+      "Price": 30000.0,
+      "ID": 4437,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedHallowPalm",
+      "Price": 30000.0,
+      "ID": 4438,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedForestBamboo",
+      "Price": 30000.0,
+      "ID": 4439,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedJungleBamboo",
+      "Price": 30000.0,
+      "ID": 4440,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedHallowBamboo",
+      "Price": 30000.0,
+      "ID": 4441,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ScarabFishingRod",
+      "Price": 100000.0,
+      "ID": 4442,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DemonicHellcart",
+      "Price": 50000.0,
+      "ID": 4443,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Witch'sBroom",
+      "Price": 250000.0,
+      "ID": 4444,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ClusterRocketI",
+      "Price": 750.0,
+      "ID": 4445,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ClusterRocketII",
+      "Price": 1500.0,
+      "ID": 4446,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WetRocket",
+      "Price": 5000.0,
+      "ID": 4447,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaRocket",
+      "Price": 5000.0,
+      "ID": 4448,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HoneyRocket",
+      "Price": 5000.0,
+      "ID": 4449,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShroomMinecart",
+      "Price": 50000.0,
+      "ID": 4450,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystMinecart",
+      "Price": 50000.0,
+      "ID": 4451,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazMinecart",
+      "Price": 50000.0,
+      "ID": 4452,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireMinecart",
+      "Price": 50000.0,
+      "ID": 4453,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldMinecart",
+      "Price": 50000.0,
+      "ID": 4454,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubyMinecart",
+      "Price": 50000.0,
+      "ID": 4455,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondMinecart",
+      "Price": 50000.0,
+      "ID": 4456,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MiniNukeI",
+      "Price": 500.0,
+      "ID": 4457,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MiniNukeII",
+      "Price": 1000.0,
+      "ID": 4458,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DryRocket",
+      "Price": 5000.0,
+      "ID": 4459,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandcastleBucket",
+      "Price": 50000.0,
+      "ID": 4460,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TurtleCage",
+      "Price": 10.0,
+      "ID": 4461,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JungleTurtleCage",
+      "Price": 10.0,
+      "ID": 4462,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gladius",
+      "Price": 15000.0,
+      "ID": 4463,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Turtle",
+      "Price": 5000.0,
+      "ID": 4464,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JungleTurtle",
+      "Price": 5000.0,
+      "ID": 4465,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TurtleStatue",
+      "Price": 300.0,
+      "ID": 4466,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberMinecart",
+      "Price": 50000.0,
+      "ID": 4467,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BeetleMinecart",
+      "Price": 200000.0,
+      "ID": 4468,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MeowmereMinecart",
+      "Price": 500000.0,
+      "ID": 4469,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PartyWagon",
+      "Price": 100000.0,
+      "ID": 4470,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheDutchman",
+      "Price": 50000.0,
+      "ID": 4471,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SteampunkMinecart",
+      "Price": 100000.0,
+      "ID": 4472,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GrebeCage",
+      "Price": 10.0,
+      "ID": 4473,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SeagullCage",
+      "Price": 10.0,
+      "ID": 4474,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WaterStriderCage",
+      "Price": 10.0,
+      "ID": 4475,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldWaterStriderCage",
+      "Price": 500000.0,
+      "ID": 4476,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LesserLuckPotion",
+      "Price": 50000.0,
+      "ID": 4477,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LuckPotion",
+      "Price": 250000.0,
+      "ID": 4478,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreaterLuckPotion",
+      "Price": 1250000.0,
+      "ID": 4479,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Seahorse",
+      "Price": 7500.0,
+      "ID": 4480,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SeahorseCage",
+      "Price": 10.0,
+      "ID": 4481,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldSeahorse",
+      "Price": 500000.0,
+      "ID": 4482,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldSeahorseCage",
+      "Price": 500000.0,
+      "ID": 4483,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "1/2SecondTimer",
+      "Price": 20000.0,
+      "ID": 4484,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "1/4SecondTimer",
+      "Price": 20000.0,
+      "ID": 4485,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EbonstoneWall",
+      "Price": 10.0,
+      "ID": 4486,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MudWall",
+      "Price": 10.0,
+      "ID": 4487,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PearlstoneWall",
+      "Price": 10.0,
+      "ID": 4488,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SnowWall",
+      "Price": 10.0,
+      "ID": 4489,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystStoneWall",
+      "Price": 10.0,
+      "ID": 4490,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazStoneWall",
+      "Price": 10.0,
+      "ID": 4491,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireStoneWall",
+      "Price": 10.0,
+      "ID": 4492,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldStoneWall",
+      "Price": 10.0,
+      "ID": 4493,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubyStoneWall",
+      "Price": 10.0,
+      "ID": 4494,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondStoneWall",
+      "Price": 10.0,
+      "ID": 4495,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenMossyWall",
+      "Price": 10.0,
+      "ID": 4496,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BrownMossyWall",
+      "Price": 10.0,
+      "ID": 4497,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RedMossyWall",
+      "Price": 10.0,
+      "ID": 4498,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueMossyWall",
+      "Price": 10.0,
+      "ID": 4499,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PurpleMossyWall",
+      "Price": 10.0,
+      "ID": 4500,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RockyDirtWall",
+      "Price": 10.0,
+      "ID": 4501,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OldStoneWall",
+      "Price": 10.0,
+      "ID": 4502,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpiderWall",
+      "Price": 10.0,
+      "ID": 4503,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptGrassWall",
+      "Price": 250.0,
+      "ID": 4504,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedGrassWall",
+      "Price": 250.0,
+      "ID": 4505,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IceWall",
+      "Price": 10.0,
+      "ID": 4506,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ObsidianWall",
+      "Price": 10.0,
+      "ID": 4507,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonGrassWall",
+      "Price": 250.0,
+      "ID": 4508,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimstoneWall",
+      "Price": 10.0,
+      "ID": 4509,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CaveDirtWall",
+      "Price": 10.0,
+      "ID": 4510,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoughDirtWall",
+      "Price": 10.0,
+      "ID": 4511,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CraggyStoneWall",
+      "Price": 10.0,
+      "ID": 4512,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptGrowthWall",
+      "Price": 10.0,
+      "ID": 4513,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptMassWall",
+      "Price": 10.0,
+      "ID": 4514,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptPustuleWall",
+      "Price": 10.0,
+      "ID": 4515,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptTendrilWall",
+      "Price": 10.0,
+      "ID": 4516,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonCrustWall",
+      "Price": 10.0,
+      "ID": 4517,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonScabWall",
+      "Price": 10.0,
+      "ID": 4518,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonTeethWall",
+      "Price": 10.0,
+      "ID": 4519,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonBlisterWall",
+      "Price": 10.0,
+      "ID": 4520,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LayeredDirtWall",
+      "Price": 10.0,
+      "ID": 4521,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrumblingDirtWall",
+      "Price": 10.0,
+      "ID": 4522,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrackedDirtWall",
+      "Price": 10.0,
+      "ID": 4523,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WavyDirtWall",
+      "Price": 10.0,
+      "ID": 4524,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedPrismWall",
+      "Price": 10.0,
+      "ID": 4525,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedCavernWall",
+      "Price": 10.0,
+      "ID": 4526,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedShardWall",
+      "Price": 10.0,
+      "ID": 4527,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedCrystallineWall",
+      "Price": 10.0,
+      "ID": 4528,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LichenStoneWall",
+      "Price": 10.0,
+      "ID": 4529,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LeafyJungleWall",
+      "Price": 10.0,
+      "ID": 4530,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IvyStoneWall",
+      "Price": 10.0,
+      "ID": 4531,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JungleVineWall",
+      "Price": 10.0,
+      "ID": 4532,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmberWall",
+      "Price": 10.0,
+      "ID": 4533,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CinderWall",
+      "Price": 10.0,
+      "ID": 4534,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagmaWall",
+      "Price": 10.0,
+      "ID": 4535,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SmoulderingStoneWall",
+      "Price": 10.0,
+      "ID": 4536,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WornStoneWall",
+      "Price": 10.0,
+      "ID": 4537,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StalactiteStoneWall",
+      "Price": 10.0,
+      "ID": 4538,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MottledStoneWall",
+      "Price": 10.0,
+      "ID": 4539,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FracturedStoneWall",
+      "Price": 10.0,
+      "ID": 4540,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheBrideBanner",
+      "Price": 1000.0,
+      "ID": 4541,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ZombieMermanBanner",
+      "Price": 1000.0,
+      "ID": 4542,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WanderingEyeFishBanner",
+      "Price": 1000.0,
+      "ID": 4543,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodSquidBanner",
+      "Price": 1000.0,
+      "ID": 4544,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodEelBanner",
+      "Price": 1000.0,
+      "ID": 4545,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HemogoblinSharkBanner",
+      "Price": 1000.0,
+      "ID": 4546,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LargeBamboo",
+      "Price": 100.0,
+      "ID": 4547,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LargeBambooWall",
+      "Price": 10.0,
+      "ID": 4548,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DemonHorns",
+      "Price": 25000.0,
+      "ID": 4549,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooLeaf",
+      "Price": 1000000.0,
+      "ID": 4550,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SliceofHellCake",
+      "Price": 100000.0,
+      "ID": 4551,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FogMachine",
+      "Price": 40000.0,
+      "ID": 4552,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PlasmaLamp",
+      "Price": 20000.0,
+      "ID": 4553,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MarbleColumn",
+      "Price": 10.0,
+      "ID": 4554,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChefHat",
+      "Price": 25000.0,
+      "ID": 4555,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChefUniform",
+      "Price": 25000.0,
+      "ID": 4556,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChefPants",
+      "Price": 25000.0,
+      "ID": 4557,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StarHairpin",
+      "Price": 20000.0,
+      "ID": 4558,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HeartHairpin",
+      "Price": 20000.0,
+      "ID": 4559,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BunnyEars",
+      "Price": 30000.0,
+      "ID": 4560,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DevilHorns",
+      "Price": 25000.0,
+      "ID": 4561,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Fedora",
+      "Price": 25000.0,
+      "ID": 4562,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FakeUnicornHorn",
+      "Price": 25000.0,
+      "ID": 4563,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Bamboo",
+      "Price": 100.0,
+      "ID": 4564,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooWall",
+      "Price": 10.0,
+      "ID": 4565,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooBathtub",
+      "Price": 300.0,
+      "ID": 4566,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooBed",
+      "Price": 2000.0,
+      "ID": 4567,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooBookcase",
+      "Price": 300.0,
+      "ID": 4568,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooDresser",
+      "Price": 300.0,
+      "ID": 4569,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooCandelabra",
+      "Price": 1500.0,
+      "ID": 4570,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooCandle",
+      "Price": 300.0,
+      "ID": 4571,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooChair",
+      "Price": 150.0,
+      "ID": 4572,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooChandelier",
+      "Price": 2000.0,
+      "ID": 4573,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooChest",
+      "Price": 500.0,
+      "ID": 4574,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooClock",
+      "Price": 300.0,
+      "ID": 4575,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooDoor",
+      "Price": 200.0,
+      "ID": 4576,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooLamp",
+      "Price": 500.0,
+      "ID": 4577,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooLantern",
+      "Price": 150.0,
+      "ID": 4578,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooPiano",
+      "Price": 300.0,
+      "ID": 4579,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooPlatform",
+      "Price": 10.0,
+      "ID": 4580,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooSink",
+      "Price": 300.0,
+      "ID": 4581,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooSofa",
+      "Price": 300.0,
+      "ID": 4582,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooTable",
+      "Price": 300.0,
+      "ID": 4583,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooWorkBench",
+      "Price": 150.0,
+      "ID": 4584,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedBambooChest",
+      "Price": 500.0,
+      "ID": 4585,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooToilet",
+      "Price": 150.0,
+      "ID": 4586,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WornGolfClub(Iron)",
+      "Price": 1000.0,
+      "ID": 4587,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WornGolfClub(Putter)",
+      "Price": 1000.0,
+      "ID": 4588,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WornGolfClub(Wedge)",
+      "Price": 1000.0,
+      "ID": 4589,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WornGolfClub(Driver)",
+      "Price": 1000.0,
+      "ID": 4590,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FancyGolfClub(Iron)",
+      "Price": 100000.0,
+      "ID": 4591,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FancyGolfClub(Putter)",
+      "Price": 100000.0,
+      "ID": 4592,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FancyGolfClub(Wedge)",
+      "Price": 100000.0,
+      "ID": 4593,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FancyGolfClub(Driver)",
+      "Price": 100000.0,
+      "ID": 4594,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PremiumGolfClub(Iron)",
+      "Price": 250000.0,
+      "ID": 4595,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PremiumGolfClub(Putter)",
+      "Price": 250000.0,
+      "ID": 4596,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PremiumGolfClub(Wedge)",
+      "Price": 250000.0,
+      "ID": 4597,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PremiumGolfClub(Driver)",
+      "Price": 250000.0,
+      "ID": 4598,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BronzeGolfTrophy",
+      "Price": 10000.0,
+      "ID": 4599,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SilverGolfTrophy",
+      "Price": 10000.0,
+      "ID": 4600,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldGolfTrophy",
+      "Price": 10000.0,
+      "ID": 4601,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DreadnautilusBanner",
+      "Price": 1000.0,
+      "ID": 4602,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BirdieRattle",
+      "Price": 1000000.0,
+      "ID": 4603,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ExoticChewToy",
+      "Price": 1000000.0,
+      "ID": 4604,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BedazzledNectar",
+      "Price": 1000000.0,
+      "ID": 4605,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(JungleNight)",
+      "Price": 100000.0,
+      "ID": 4606,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertTigerStaff",
+      "Price": 1000000.0,
+      "ID": 4607,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ChumBucket",
+      "Price": 2500.0,
+      "ID": 4608,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GardenGnome",
+      "Price": 50000.0,
+      "ID": 4609,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BoneSerpentKite",
+      "Price": 20000.0,
+      "ID": 4610,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WorldFeederKite",
+      "Price": 20000.0,
+      "ID": 4611,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BunnyKite",
+      "Price": 20000.0,
+      "ID": 4612,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PigronKite",
+      "Price": 20000.0,
+      "ID": 4613,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AppleJuice",
+      "Price": 10000.0,
+      "ID": 4614,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GrapeJuice",
+      "Price": 40000.0,
+      "ID": 4615,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Lemonade",
+      "Price": 10000.0,
+      "ID": 4616,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrozenBananaDaiquiri",
+      "Price": 10000.0,
+      "ID": 4617,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PeachSangria",
+      "Price": 10000.0,
+      "ID": 4618,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PiñaColada",
+      "Price": 20000.0,
+      "ID": 4619,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TropicalSmoothie",
+      "Price": 20000.0,
+      "ID": 4620,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodyMoscato",
+      "Price": 20000.0,
+      "ID": 4621,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SmoothieofDarkness",
+      "Price": 20000.0,
+      "ID": 4622,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrismaticPunch",
+      "Price": 20000.0,
+      "ID": 4623,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FruitJuice",
+      "Price": 20000.0,
+      "ID": 4624,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FruitSalad",
+      "Price": 30000.0,
+      "ID": 4625,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AndrewSphinx",
+      "Price": 5000.0,
+      "ID": 4626,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WatchfulAntlion",
+      "Price": 5000.0,
+      "ID": 4627,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BurningSpirit",
+      "Price": 5000.0,
+      "ID": 4628,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JawsofDeath",
+      "Price": 5000.0,
+      "ID": 4629,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheSandsofSlime",
+      "Price": 5000.0,
+      "ID": 4630,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Snakes,IHateSnakes",
+      "Price": 5000.0,
+      "ID": 4631,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LifeAbovetheSand",
+      "Price": 5000.0,
+      "ID": 4632,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Oasis",
+      "Price": 5000.0,
+      "ID": 4633,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrehistoryPreserved",
+      "Price": 5000.0,
+      "ID": 4634,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientTablet",
+      "Price": 5000.0,
+      "ID": 4635,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Uluru",
+      "Price": 5000.0,
+      "ID": 4636,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VisitingthePyramids",
+      "Price": 5000.0,
+      "ID": 4637,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BandageBoy",
+      "Price": 5000.0,
+      "ID": 4638,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DivineEye",
+      "Price": 5000.0,
+      "ID": 4639,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystStoneBlock",
+      "Price": 500.0,
+      "ID": 4640,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazStoneBlock",
+      "Price": 500.0,
+      "ID": 4641,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireStoneBlock",
+      "Price": 500.0,
+      "ID": 4642,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldStoneBlock",
+      "Price": 500.0,
+      "ID": 4643,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubyStoneBlock",
+      "Price": 500.0,
+      "ID": 4644,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondStoneBlock",
+      "Price": 500.0,
+      "ID": 4645,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberStoneBlock",
+      "Price": 500.0,
+      "ID": 4646,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberStoneWall",
+      "Price": 10.0,
+      "ID": 4647,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ManEaterKite",
+      "Price": 20000.0,
+      "ID": 4648,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueJellyfishKite",
+      "Price": 20000.0,
+      "ID": 4649,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkJellyfishKite",
+      "Price": 20000.0,
+      "ID": 4650,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SharkKite",
+      "Price": 20000.0,
+      "ID": 4651,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SuperheroMask",
+      "Price": 25000.0,
+      "ID": 4652,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SuperheroCostume",
+      "Price": 25000.0,
+      "ID": 4653,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SuperheroTights",
+      "Price": 25000.0,
+      "ID": 4654,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkFairyJar",
+      "Price": 10.0,
+      "ID": 4655,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GreenFairyJar",
+      "Price": 10.0,
+      "ID": 4656,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueFairyJar",
+      "Price": 10.0,
+      "ID": 4657,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheRollingGreens",
+      "Price": 10000.0,
+      "ID": 4658,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StudyofaBallatRest",
+      "Price": 10000.0,
+      "ID": 4659,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Fore!",
+      "Price": 10000.0,
+      "ID": 4660,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheDuplicityofReflections",
+      "Price": 10000.0,
+      "ID": 4661,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FogboundDye",
+      "Price": 75000.0,
+      "ID": 4662,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodbathDye",
+      "Price": 75000.0,
+      "ID": 4663,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrettyPinkDress",
+      "Price": 200000.0,
+      "ID": 4664,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrettyPinkStockings",
+      "Price": 200000.0,
+      "ID": 4665,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrettyPinkRibbon",
+      "Price": 150000.0,
+      "ID": 4666,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BambooFence",
+      "Price": 10.0,
+      "ID": 4667,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IlluminantPaint",
+      "Price": 200.0,
+      "ID": 4668,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandSharkKite",
+      "Price": 20000.0,
+      "ID": 4669,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptBunnyKite",
+      "Price": 20000.0,
+      "ID": 4670,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonBunnyKite",
+      "Price": 20000.0,
+      "ID": 4671,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LeatherWhip",
+      "Price": 150000.0,
+      "ID": 4672,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Drumstick",
+      "Price": 5000.0,
+      "ID": 4673,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoldfishKite",
+      "Price": 20000.0,
+      "ID": 4674,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AngryTrapperKite",
+      "Price": 20000.0,
+      "ID": 4675,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "KoiKite",
+      "Price": 20000.0,
+      "ID": 4676,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrawltipedeKite",
+      "Price": 20000.0,
+      "ID": 4677,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Durendal",
+      "Price": 230000.0,
+      "ID": 4678,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MorningStar",
+      "Price": 300000.0,
+      "ID": 4679,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DarkHarvest",
+      "Price": 500000.0,
+      "ID": 4680,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpectrumKite",
+      "Price": 20000.0,
+      "ID": 4681,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ReleaseDoves",
+      "Price": 100.0,
+      "ID": 4682,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WanderingEyeKite",
+      "Price": 20000.0,
+      "ID": 4683,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "UnicornKite",
+      "Price": 20000.0,
+      "ID": 4684,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GravediggerHat",
+      "Price": 100000.0,
+      "ID": 4685,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GravediggerCoat",
+      "Price": 100000.0,
+      "ID": 4686,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AngryDandelionBanner",
+      "Price": 1000.0,
+      "ID": 4687,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GnomeBanner",
+      "Price": 1000.0,
+      "ID": 4688,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertCampfire",
+      "Price": 10.0,
+      "ID": 4689,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CoralCampfire",
+      "Price": 10.0,
+      "ID": 4690,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptCampfire",
+      "Price": 10.0,
+      "ID": 4691,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonCampfire",
+      "Price": 10.0,
+      "ID": 4692,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedCampfire",
+      "Price": 10.0,
+      "ID": 4693,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JungleCampfire",
+      "Price": 10.0,
+      "ID": 4694,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoulofLightinaBottle",
+      "Price": 1000.0,
+      "ID": 4695,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoulofNightinaBottle",
+      "Price": 1000.0,
+      "ID": 4696,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoulofFlightinaBottle",
+      "Price": 1000.0,
+      "ID": 4697,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoulofSightinaBottle",
+      "Price": 40000.0,
+      "ID": 4698,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoulofMightinaBottle",
+      "Price": 40000.0,
+      "ID": 4699,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoulofFrightinaBottle",
+      "Price": 40000.0,
+      "ID": 4700,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MudBud",
+      "Price": 500000.0,
+      "ID": 4701,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ReleaseLantern",
+      "Price": 100.0,
+      "ID": 4702,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Quad-BarrelShotgun",
+      "Price": 350000.0,
+      "ID": 4703,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FuneralHat",
+      "Price": 100000.0,
+      "ID": 4704,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FuneralCoat",
+      "Price": 100000.0,
+      "ID": 4705,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FuneralPants",
+      "Price": 100000.0,
+      "ID": 4706,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TragicUmbrella",
+      "Price": 100000.0,
+      "ID": 4707,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VictorianGothHat",
+      "Price": 100000.0,
+      "ID": 4708,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VictorianGothDress",
+      "Price": 100000.0,
+      "ID": 4709,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TatteredWoodSign",
+      "Price": 10.0,
+      "ID": 4710,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gravedigger'sShovel",
+      "Price": 5000.0,
+      "ID": 4711,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertChest",
+      "Price": 2500.0,
+      "ID": 4712,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TrappedDesertChest",
+      "Price": 500.0,
+      "ID": 4713,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertKey",
+      "Price": 10.0,
+      "ID": 4714,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StellarTune",
+      "Price": 500000.0,
+      "ID": 4715,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MolluskWhistle",
+      "Price": 200000.0,
+      "ID": 4716,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BorealBeam",
+      "Price": 10.0,
+      "ID": 4717,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RichMahoganyBeam",
+      "Price": 10.0,
+      "ID": 4718,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GraniteColumn",
+      "Price": 10.0,
+      "ID": 4719,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SandstoneColumn",
+      "Price": 10.0,
+      "ID": 4720,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MushroomBeam",
+      "Price": 10.0,
+      "ID": 4721,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "",
+      "Price": 10.0,
+      "ID": 0,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Nevermore",
+      "Price": 10000.0,
+      "ID": 4723,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Reborn",
+      "Price": 10000.0,
+      "ID": 4724,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Graveyard",
+      "Price": 10000.0,
+      "ID": 4725,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GhostManifestation",
+      "Price": 10000.0,
+      "ID": 4726,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WickedUndead",
+      "Price": 10000.0,
+      "ID": 4727,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodyGoblet",
+      "Price": 10000.0,
+      "ID": 4728,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StillLife",
+      "Price": 10000.0,
+      "ID": 4729,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ghostar’sInfinityEight",
+      "Price": 400000.0,
+      "ID": 4730,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TerraToilet",
+      "Price": 150.0,
+      "ID": 4731,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ghostar’sSoulJar",
+      "Price": 250000.0,
+      "ID": 4732,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ghostar’sGarb",
+      "Price": 250000.0,
+      "ID": 4733,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ghostar’sTights",
+      "Price": 250000.0,
+      "ID": 4734,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BallO'FuseWire",
+      "Price": 500000.0,
+      "ID": 4735,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FullMoonSqueakyToy",
+      "Price": 300000.0,
+      "ID": 4736,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OrnateShadowKey",
+      "Price": 100000.0,
+      "ID": 4737,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Dr.ManFlyMask",
+      "Price": 25000.0,
+      "ID": 4738,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Dr.ManFly'sLabCoat",
+      "Price": 25000.0,
+      "ID": 4739,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ButcherMask",
+      "Price": 25000.0,
+      "ID": 4740,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Butcher'sBloodstainedApron",
+      "Price": 25000.0,
+      "ID": 4741,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Butcher'sBloodstainedPants",
+      "Price": 25000.0,
+      "ID": 4742,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Football",
+      "Price": 20.0,
+      "ID": 4743,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HunterCloak",
+      "Price": 150000.0,
+      "ID": 4744,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CoffinMinecart",
+      "Price": 1000.0,
+      "ID": 4745,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Safeman'sBlanketCape",
+      "Price": 400000.0,
+      "ID": 4746,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Safeman'sSunnyDay",
+      "Price": 250000.0,
+      "ID": 4747,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Safeman'sSunDress",
+      "Price": 250000.0,
+      "ID": 4748,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Safeman'sPinkLeggings",
+      "Price": 250000.0,
+      "ID": 4749,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FoodBarbarian'sTatteredDragonWings",
+      "Price": 400000.0,
+      "ID": 4750,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FoodBarbarian'sHornedHelm",
+      "Price": 250000.0,
+      "ID": 4751,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FoodBarbarian'sWildWolfSpaulders",
+      "Price": 250000.0,
+      "ID": 4752,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FoodBarbarian'sSavageGreaves",
+      "Price": 250000.0,
+      "ID": 4753,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GroxTheGreat'sWings",
+      "Price": 400000.0,
+      "ID": 4754,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GroxTheGreat'sHornedCowl",
+      "Price": 250000.0,
+      "ID": 4755,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GroxTheGreat'sChestplate",
+      "Price": 250000.0,
+      "ID": 4756,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GroxTheGreat'sGreaves",
+      "Price": 250000.0,
+      "ID": 4757,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BladeStaff",
+      "Price": 50000.0,
+      "ID": 4758,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SquirrelHook",
+      "Price": 20000.0,
+      "ID": 4759,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SergeantUnitedShield",
+      "Price": 350000.0,
+      "ID": 4760,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RockGolemHead",
+      "Price": 10.0,
+      "ID": 4761,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CritterShampoo",
+      "Price": 100000.0,
+      "ID": 4762,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiggingMolecart",
+      "Price": 500000.0,
+      "ID": 4763,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Shroomerang",
+      "Price": 30000.0,
+      "ID": 4764,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreeGlobe",
+      "Price": 30000.0,
+      "ID": 4765,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WorldGlobe",
+      "Price": 30000.0,
+      "ID": 4766,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GuideToCritterCompanionship",
+      "Price": 50000.0,
+      "ID": 4767,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DogEars",
+      "Price": 30000.0,
+      "ID": 4768,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DogTail",
+      "Price": 30000.0,
+      "ID": 4769,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FoxEars",
+      "Price": 30000.0,
+      "ID": 4770,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FoxTail",
+      "Price": 30000.0,
+      "ID": 4771,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LizardEars",
+      "Price": 30000.0,
+      "ID": 4772,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LizardTail",
+      "Price": 30000.0,
+      "ID": 4773,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PandaEars",
+      "Price": 25000.0,
+      "ID": 4774,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BunnyTail",
+      "Price": 30000.0,
+      "ID": 4775,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FairyGlowstick",
+      "Price": 75.0,
+      "ID": 4776,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LightningCarrot",
+      "Price": 500000.0,
+      "ID": 4777,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrismaticDye",
+      "Price": 75000.0,
+      "ID": 4778,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MushroomHat",
+      "Price": 10.0,
+      "ID": 4779,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MushroomVest",
+      "Price": 10.0,
+      "ID": 4780,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MushroomPants",
+      "Price": 10.0,
+      "ID": 4781,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag(EmpressofLight)",
+      "Price": 10.0,
+      "ID": 4782,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmpressofLightTrophy",
+      "Price": 50000.0,
+      "ID": 4783,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmpressofLightMask",
+      "Price": 37500.0,
+      "ID": 4784,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DustyRawhideSaddle",
+      "Price": 250000.0,
+      "ID": 4785,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoyalGildedSaddle",
+      "Price": 250000.0,
+      "ID": 4786,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackStuddedSaddle",
+      "Price": 250000.0,
+      "ID": 4787,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JoustingLance",
+      "Price": 60000.0,
+      "ID": 4788,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShadowJoustingLance",
+      "Price": 500000.0,
+      "ID": 4789,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedJoustingLance",
+      "Price": 230000.0,
+      "ID": 4790,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PogoStick",
+      "Price": 250000.0,
+      "ID": 4791,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheBlackSpot",
+      "Price": 250000.0,
+      "ID": 4792,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HexxedBranch",
+      "Price": 250000.0,
+      "ID": 4793,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ToyTank",
+      "Price": 250000.0,
+      "ID": 4794,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GoatSkull",
+      "Price": 250000.0,
+      "ID": 4795,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DarkMage'sTome",
+      "Price": 250000.0,
+      "ID": 4796,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoyalDelight",
+      "Price": 250000.0,
+      "ID": 4797,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SuspiciousGrinningEye",
+      "Price": 250000.0,
+      "ID": 4798,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WrithingRemains",
+      "Price": 250000.0,
+      "ID": 4799,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BraininaJar",
+      "Price": 250000.0,
+      "ID": 4800,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PossessedSkull",
+      "Price": 250000.0,
+      "ID": 4801,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SparklingHoney",
+      "Price": 250000.0,
+      "ID": 4802,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeactivatedProbe",
+      "Price": 250000.0,
+      "ID": 4803,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PairofEyeballs",
+      "Price": 250000.0,
+      "ID": 4804,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoboticSkull",
+      "Price": 250000.0,
+      "ID": 4805,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PlanteraSeedling",
+      "Price": 250000.0,
+      "ID": 4806,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GuardianGolem",
+      "Price": 250000.0,
+      "ID": 4807,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PorkoftheSea",
+      "Price": 250000.0,
+      "ID": 4808,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TabletFragment",
+      "Price": 250000.0,
+      "ID": 4809,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PieceofMoonSquid",
+      "Price": 250000.0,
+      "ID": 4810,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JewelofLight",
+      "Price": 250000.0,
+      "ID": 4811,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PumpkinScentedCandle",
+      "Price": 250000.0,
+      "ID": 4812,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ShrubStar",
+      "Price": 250000.0,
+      "ID": 4813,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FrozenCrown",
+      "Price": 250000.0,
+      "ID": 4814,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CosmicSkateboard",
+      "Price": 250000.0,
+      "ID": 4815,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Ogre'sClub",
+      "Price": 250000.0,
+      "ID": 4816,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Betsy'sEgg",
+      "Price": 250000.0,
+      "ID": 4817,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CombatWrench",
+      "Price": 25000.0,
+      "ID": 4818,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DemonConch",
+      "Price": 50000.0,
+      "ID": 4819,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BottomlessLavaBucket",
+      "Price": 500000.0,
+      "ID": 4820,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaproofBugNet",
+      "Price": 250000.0,
+      "ID": 4821,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FlameWakerBoots",
+      "Price": 100000.0,
+      "ID": 4822,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmpressWings",
+      "Price": 400000.0,
+      "ID": 4823,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WetBomb",
+      "Price": 2500.0,
+      "ID": 4824,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaBomb",
+      "Price": 2500.0,
+      "ID": 4825,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HoneyBomb",
+      "Price": 2500.0,
+      "ID": 4826,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DryBomb",
+      "Price": 2500.0,
+      "ID": 4827,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SuperheatedBlood",
+      "Price": 250000.0,
+      "ID": 4828,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CatLicense",
+      "Price": 50000.0,
+      "ID": 4829,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DogLicense",
+      "Price": 50000.0,
+      "ID": 4830,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystSquirrel",
+      "Price": 5000.0,
+      "ID": 4831,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazSquirrel",
+      "Price": 5000.0,
+      "ID": 4832,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireSquirrel",
+      "Price": 5000.0,
+      "ID": 4833,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldSquirrel",
+      "Price": 5000.0,
+      "ID": 4834,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubySquirrel",
+      "Price": 5000.0,
+      "ID": 4835,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondSquirrel",
+      "Price": 5000.0,
+      "ID": 4836,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberSquirrel",
+      "Price": 5000.0,
+      "ID": 4837,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystBunny",
+      "Price": 5000.0,
+      "ID": 4838,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazBunny",
+      "Price": 5000.0,
+      "ID": 4839,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireBunny",
+      "Price": 5000.0,
+      "ID": 4840,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldBunny",
+      "Price": 5000.0,
+      "ID": 4841,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubyBunny",
+      "Price": 5000.0,
+      "ID": 4842,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondBunny",
+      "Price": 5000.0,
+      "ID": 4843,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberBunny",
+      "Price": 5000.0,
+      "ID": 4844,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HellButterfly",
+      "Price": 10000.0,
+      "ID": 4845,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HellButterflyJar",
+      "Price": 10.0,
+      "ID": 4846,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Lavafly",
+      "Price": 10000.0,
+      "ID": 4847,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaflyinaBottle",
+      "Price": 10.0,
+      "ID": 4848,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagmaSnail",
+      "Price": 25000.0,
+      "ID": 4849,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MagmaSnailCage",
+      "Price": 10.0,
+      "ID": 4850,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazGemcorn",
+      "Price": 3750.0,
+      "ID": 4851,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystGemcorn",
+      "Price": 1875.0,
+      "ID": 4852,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireGemcorn",
+      "Price": 5625.0,
+      "ID": 4853,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldGemcorn",
+      "Price": 7500.0,
+      "ID": 4854,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubyGemcorn",
+      "Price": 11250.0,
+      "ID": 4855,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondGemcorn",
+      "Price": 15000.0,
+      "ID": 4856,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberGemcorn",
+      "Price": 15000.0,
+      "ID": 4857,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingPot",
+      "Price": 12500.0,
+      "ID": 4858,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingDaybloom",
+      "Price": 12500.0,
+      "ID": 4859,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingMoonglow",
+      "Price": 12500.0,
+      "ID": 4860,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingWaterleaf",
+      "Price": 12500.0,
+      "ID": 4861,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingShiverthorn",
+      "Price": 12500.0,
+      "ID": 4862,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingBlinkroot",
+      "Price": 12500.0,
+      "ID": 4863,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingCorruptDeathweed",
+      "Price": 12500.0,
+      "ID": 4864,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingCrimsonDeathweed",
+      "Price": 12500.0,
+      "ID": 4865,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingFireblossom",
+      "Price": 12500.0,
+      "ID": 4866,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HangingBrazier",
+      "Price": 12500.0,
+      "ID": 4867,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MiniVolcano",
+      "Price": 20000.0,
+      "ID": 4868,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LargeVolcano",
+      "Price": 20000.0,
+      "ID": 4869,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PotionofReturn",
+      "Price": 1000.0,
+      "ID": 4870,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SakuraSapling",
+      "Price": 10000.0,
+      "ID": 4871,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaAbsorbantSponge",
+      "Price": 500000.0,
+      "ID": 4872,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedHood",
+      "Price": 250000.0,
+      "ID": 4873,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HellfireTreads",
+      "Price": 600000.0,
+      "ID": 4874,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "JunglePylon",
+      "Price": 100000.0,
+      "ID": 4875,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ForestPylon",
+      "Price": 100000.0,
+      "ID": 4876,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ObsidianCrate",
+      "Price": 50000.0,
+      "ID": 4877,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HellstoneCrate",
+      "Price": 50000.0,
+      "ID": 4878,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ObsidianLockBox",
+      "Price": 20000.0,
+      "ID": 4879,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaSerpentBowl",
+      "Price": 10000.0,
+      "ID": 4880,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaproofFishingHook",
+      "Price": 100000.0,
+      "ID": 4881,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystBunnyCage",
+      "Price": 10.0,
+      "ID": 4882,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazBunnyCage",
+      "Price": 10.0,
+      "ID": 4883,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireBunnyCage",
+      "Price": 10.0,
+      "ID": 4884,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldBunnyCage",
+      "Price": 10.0,
+      "ID": 4885,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubyBunnyCage",
+      "Price": 10.0,
+      "ID": 4886,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondBunnyCage",
+      "Price": 10.0,
+      "ID": 4887,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberBunnyCage",
+      "Price": 10.0,
+      "ID": 4888,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmethystSquirrelCage",
+      "Price": 10.0,
+      "ID": 4889,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TopazSquirrelCage",
+      "Price": 10.0,
+      "ID": 4890,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SapphireSquirrelCage",
+      "Price": 10.0,
+      "ID": 4891,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmeraldSquirrelCage",
+      "Price": 10.0,
+      "ID": 4892,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RubySquirrelCage",
+      "Price": 10.0,
+      "ID": 4893,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DiamondSquirrelCage",
+      "Price": 10.0,
+      "ID": 4894,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmberSquirrelCage",
+      "Price": 10.0,
+      "ID": 4895,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientHallowedMask",
+      "Price": 250000.0,
+      "ID": 4896,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientHallowedHelmet",
+      "Price": 250000.0,
+      "ID": 4897,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientHallowedHeadgear",
+      "Price": 250000.0,
+      "ID": 4898,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientHallowedHood",
+      "Price": 250000.0,
+      "ID": 4899,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientHallowedPlateMail",
+      "Price": 200000.0,
+      "ID": 4900,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientHallowedGreaves",
+      "Price": 150000.0,
+      "ID": 4901,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedMagmaPalm",
+      "Price": 30000.0,
+      "ID": 4902,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedBrimstoneBush",
+      "Price": 30000.0,
+      "ID": 4903,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedFireBrambles",
+      "Price": 30000.0,
+      "ID": 4904,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedLavaBulb",
+      "Price": 30000.0,
+      "ID": 4905,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedEmberTendrils",
+      "Price": 30000.0,
+      "ID": 4906,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "YellowWillowSapling",
+      "Price": 10000.0,
+      "ID": 4907,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DirtBomb",
+      "Price": 500.0,
+      "ID": 4908,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StickyDirtBomb",
+      "Price": 500.0,
+      "ID": 4909,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BunnyLicense",
+      "Price": 50000.0,
+      "ID": 4910,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CoolWhip",
+      "Price": 200000.0,
+      "ID": 4911,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Firecracker",
+      "Price": 150000.0,
+      "ID": 4912,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Snapthorn",
+      "Price": 50000.0,
+      "ID": 4913,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Kaleidoscope",
+      "Price": 250000.0,
+      "ID": 4914,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TungstenBullet",
+      "Price": 18.0,
+      "ID": 4915,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowPylon",
+      "Price": 100000.0,
+      "ID": 4916,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CavernPylon",
+      "Price": 100000.0,
+      "ID": 4917,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OceanPylon",
+      "Price": 100000.0,
+      "ID": 4918,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DesertPylon",
+      "Price": 100000.0,
+      "ID": 4919,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SnowPylon",
+      "Price": 100000.0,
+      "ID": 4920,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MushroomPylon",
+      "Price": 100000.0,
+      "ID": 4921,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CavernWaterFountain",
+      "Price": 40000.0,
+      "ID": 4922,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Starlight",
+      "Price": 250000.0,
+      "ID": 4923,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EyeofCthulhuRelic",
+      "Price": 50000.0,
+      "ID": 4924,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EaterofWorldsRelic",
+      "Price": 50000.0,
+      "ID": 4925,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BrainofCthulhuRelic",
+      "Price": 50000.0,
+      "ID": 4926,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SkeletronRelic",
+      "Price": 50000.0,
+      "ID": 4927,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "QueenBeeRelic",
+      "Price": 50000.0,
+      "ID": 4928,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "KingSlimeRelic",
+      "Price": 50000.0,
+      "ID": 4929,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WallofFleshRelic",
+      "Price": 50000.0,
+      "ID": 4930,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TwinsRelic",
+      "Price": 50000.0,
+      "ID": 4931,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DestroyerRelic",
+      "Price": 50000.0,
+      "ID": 4932,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SkeletronPrimeRelic",
+      "Price": 50000.0,
+      "ID": 4933,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PlanteraRelic",
+      "Price": 50000.0,
+      "ID": 4934,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GolemRelic",
+      "Price": 50000.0,
+      "ID": 4935,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DukeFishronRelic",
+      "Price": 50000.0,
+      "ID": 4936,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LunaticCultistRelic",
+      "Price": 50000.0,
+      "ID": 4937,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MoonLordRelic",
+      "Price": 50000.0,
+      "ID": 4938,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MartianSaucerRelic",
+      "Price": 50000.0,
+      "ID": 4939,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FlyingDutchmanRelic",
+      "Price": 50000.0,
+      "ID": 4940,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MourningWoodRelic",
+      "Price": 50000.0,
+      "ID": 4941,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PumpkingRelic",
+      "Price": 50000.0,
+      "ID": 4942,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "IceQueenRelic",
+      "Price": 50000.0,
+      "ID": 4943,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EverscreamRelic",
+      "Price": 50000.0,
+      "ID": 4944,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Santa-NK1Relic",
+      "Price": 50000.0,
+      "ID": 4945,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DarkMageRelic",
+      "Price": 50000.0,
+      "ID": 4946,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OgreRelic",
+      "Price": 50000.0,
+      "ID": 4947,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BetsyRelic",
+      "Price": 50000.0,
+      "ID": 4948,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EmpressofLightRelic",
+      "Price": 50000.0,
+      "ID": 4949,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "QueenSlimeRelic",
+      "Price": 50000.0,
+      "ID": 4950,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "UniversalPylon",
+      "Price": 1000000.0,
+      "ID": 4951,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Nightglow",
+      "Price": 250000.0,
+      "ID": 4952,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Eventide",
+      "Price": 250000.0,
+      "ID": 4953,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CelestialStarboard",
+      "Price": 500000.0,
+      "ID": 4954,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RabbitPerch",
+      "Price": 150000.0,
+      "ID": 4955,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Zenith",
+      "Price": 1000000.0,
+      "ID": 4956,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag(QueenSlime)",
+      "Price": 10.0,
+      "ID": 4957,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "QueenSlimeTrophy",
+      "Price": 50000.0,
+      "ID": 4958,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "QueenSlimeMask",
+      "Price": 37500.0,
+      "ID": 4959,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RegalDelicacy",
+      "Price": 250000.0,
+      "ID": 4960,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrismaticLacewing",
+      "Price": 800000.0,
+      "ID": 4961,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "StoneAccentSlab",
+      "Price": 10.0,
+      "ID": 4962,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TruffleWormCage",
+      "Price": 10.0,
+      "ID": 4963,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrismaticLacewingJar",
+      "Price": 800000.0,
+      "ID": 4964,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RockGolemBanner",
+      "Price": 1000.0,
+      "ID": 4965,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BloodMummyBanner",
+      "Price": 1000.0,
+      "ID": 4966,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SporeSkeletonBanner",
+      "Price": 1000.0,
+      "ID": 4967,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SporeBatBanner",
+      "Price": 1000.0,
+      "ID": 4968,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AntlionLarvaBanner",
+      "Price": 1000.0,
+      "ID": 4969,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ViciousBunnyBanner",
+      "Price": 1000.0,
+      "ID": 4970,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ViciousGoldfishBanner",
+      "Price": 1000.0,
+      "ID": 4971,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ViciousPenguinBanner",
+      "Price": 1000.0,
+      "ID": 4972,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CorruptMimicBanner",
+      "Price": 1000.0,
+      "ID": 4973,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrimsonMimicBanner",
+      "Price": 1000.0,
+      "ID": 4974,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HallowedMimicBanner",
+      "Price": 1000.0,
+      "ID": 4975,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MossHornetBanner",
+      "Price": 1000.0,
+      "ID": 4976,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WanderingEyeBanner",
+      "Price": 1000.0,
+      "ID": 4977,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FledglingWings",
+      "Price": 2000.0,
+      "ID": 4978,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(QueenSlime)",
+      "Price": 100000.0,
+      "ID": 4979,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HookofDissonance",
+      "Price": 250000.0,
+      "ID": 4980,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GelatinousPillion",
+      "Price": 250000.0,
+      "ID": 4981,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrystalAssassinHood",
+      "Price": 100000.0,
+      "ID": 4982,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrystalAssassinShirt",
+      "Price": 100000.0,
+      "ID": 4983,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CrystalAssassinPants",
+      "Price": 100000.0,
+      "ID": 4984,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(EmpressOfLight)",
+      "Price": 100000.0,
+      "ID": 4985,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SparkleSlimeBalloon",
+      "Price": 200.0,
+      "ID": 4986,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VolatileGelatin",
+      "Price": 250000.0,
+      "ID": 4987,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GelatinCrystal",
+      "Price": 50000.0,
+      "ID": 4988,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SoaringInsignia",
+      "Price": 500000.0,
+      "ID": 4989,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(DukeFishron)",
+      "Price": 100000.0,
+      "ID": 4990,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(MorningRain)",
+      "Price": 100000.0,
+      "ID": 4991,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(AltTitle)",
+      "Price": 100000.0,
+      "ID": 4992,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Chippy'sCouch",
+      "Price": 25000.0,
+      "ID": 4993,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueGraduationCap",
+      "Price": 100000.0,
+      "ID": 4994,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MaroonGraduationCap",
+      "Price": 100000.0,
+      "ID": 4995,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackGraduationCap",
+      "Price": 100000.0,
+      "ID": 4996,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueGraduationGown",
+      "Price": 100000.0,
+      "ID": 4997,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MaroonGraduationGown",
+      "Price": 100000.0,
+      "ID": 4998,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlackGraduationGown",
+      "Price": 100000.0,
+      "ID": 4999,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TerrasparkBoots",
+      "Price": 750000.0,
+      "ID": 5000,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MoonLordLegs",
+      "Price": 100000.0,
+      "ID": 5001,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OceanCrate",
+      "Price": 50000.0,
+      "ID": 5002,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SeasideCrate",
+      "Price": 50000.0,
+      "ID": 5003,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Badger'sHat",
+      "Price": 15000.0,
+      "ID": 5004,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Terraprisma",
+      "Price": 1000000.0,
+      "ID": 5005,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(UndergroundDesert)",
+      "Price": 100000.0,
+      "ID": 5006,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeadMan'sSweater",
+      "Price": 10000.0,
+      "ID": 5007,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Teapot",
+      "Price": 1000.0,
+      "ID": 5008,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Teacup",
+      "Price": 20.0,
+      "ID": 5009,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureMagnet",
+      "Price": 250000.0,
+      "ID": 5010,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Mace",
+      "Price": 100000.0,
+      "ID": 5011,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FlamingMace",
+      "Price": 100000.0,
+      "ID": 5012,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "",
+      "Price": 10.0,
+      "ID": 0,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Rain)",
+      "Price": 100000.0,
+      "ID": 5014,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(OverworldDay)",
+      "Price": 100000.0,
+      "ID": 5015,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Night)",
+      "Price": 100000.0,
+      "ID": 5016,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Underground)",
+      "Price": 100000.0,
+      "ID": 5017,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Desert)",
+      "Price": 100000.0,
+      "ID": 5018,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Ocean)",
+      "Price": 100000.0,
+      "ID": 5019,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Mushrooms)",
+      "Price": 100000.0,
+      "ID": 5020,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Dungeon)",
+      "Price": 100000.0,
+      "ID": 5021,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Space)",
+      "Price": 100000.0,
+      "ID": 5022,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Underworld)",
+      "Price": 100000.0,
+      "ID": 5023,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Snow)",
+      "Price": 100000.0,
+      "ID": 5024,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Corruption)",
+      "Price": 100000.0,
+      "ID": 5025,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(UndergroundCorruption)",
+      "Price": 100000.0,
+      "ID": 5026,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Crimson)",
+      "Price": 100000.0,
+      "ID": 5027,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(UndergroundCrimson)",
+      "Price": 100000.0,
+      "ID": 5028,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Ice)",
+      "Price": 100000.0,
+      "ID": 5029,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(UndergroundHallow)",
+      "Price": 100000.0,
+      "ID": 5030,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Eerie)",
+      "Price": 100000.0,
+      "ID": 5031,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Boss2)",
+      "Price": 100000.0,
+      "ID": 5032,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Boss1)",
+      "Price": 100000.0,
+      "ID": 5033,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Invasion)",
+      "Price": 100000.0,
+      "ID": 5034,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(TheTowers)",
+      "Price": 100000.0,
+      "ID": 5035,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(LunarBoss)",
+      "Price": 100000.0,
+      "ID": 5036,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Plantera)",
+      "Price": 100000.0,
+      "ID": 5037,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Jungle)",
+      "Price": 100000.0,
+      "ID": 5038,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(WallofFlesh)",
+      "Price": 100000.0,
+      "ID": 5039,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OtherworldlyMusicBox(Hallow)",
+      "Price": 100000.0,
+      "ID": 5040,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CartonofMilk",
+      "Price": 10000.0,
+      "ID": 5041,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Coffee",
+      "Price": 10000.0,
+      "ID": 5042,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TorchGod'sFavor",
+      "Price": 100000.0,
+      "ID": 5043,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Journey'sEnd)",
+      "Price": 100000.0,
+      "ID": 5044,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Plaguebringer'sSkull",
+      "Price": 500.0,
+      "ID": 5045,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Plaguebringer'sCloak",
+      "Price": 500.0,
+      "ID": 5046,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Plaguebringer'sTreads",
+      "Price": 500.0,
+      "ID": 5047,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WanderingJingasa",
+      "Price": 500.0,
+      "ID": 5048,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WanderingYukata",
+      "Price": 500.0,
+      "ID": 5049,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WanderingGeta",
+      "Price": 500.0,
+      "ID": 5050,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TimelessTraveler'sHood",
+      "Price": 500.0,
+      "ID": 5051,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TimelessTraveler'sCloak",
+      "Price": 500.0,
+      "ID": 5052,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TimelessTraveler'sFootwear",
+      "Price": 500.0,
+      "ID": 5053,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FloretProtectorHelmet",
+      "Price": 500.0,
+      "ID": 5054,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FloretProtectorShirt",
+      "Price": 500.0,
+      "ID": 5055,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FloretProtectorPants",
+      "Price": 500.0,
+      "ID": 5056,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CapricornHelmet",
+      "Price": 500.0,
+      "ID": 5057,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CapricornChestplate",
+      "Price": 500.0,
+      "ID": 5058,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CapricornHooves",
+      "Price": 500.0,
+      "ID": 5059,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "CapricornTail",
+      "Price": 500.0,
+      "ID": 5060,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "VideoVisage",
+      "Price": 500.0,
+      "ID": 5061,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LazerBlazer",
+      "Price": 500.0,
+      "ID": 5062,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinstripePants",
+      "Price": 500.0,
+      "ID": 5063,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LavaproofTackleBag",
+      "Price": 200000.0,
+      "ID": 5064,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ResonanceScepter",
+      "Price": 500000.0,
+      "ID": 5065,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BeeHive",
+      "Price": 250.0,
+      "ID": 5066,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AntlionEggs",
+      "Price": 250.0,
+      "ID": 5067,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FlinxFurCoat",
+      "Price": 125000.0,
+      "ID": 5068,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FlinxStaff",
+      "Price": 25000.0,
+      "ID": 5069,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FlinxFur",
+      "Price": 500.0,
+      "ID": 5070,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoyalTiara",
+      "Price": 500000.0,
+      "ID": 5071,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoyalBlouse",
+      "Price": 500000.0,
+      "ID": 5072,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoyalDress",
+      "Price": 500000.0,
+      "ID": 5073,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpinalTap",
+      "Price": 75000.0,
+      "ID": 5074,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RainbowCursor",
+      "Price": 50000.0,
+      "ID": 5075,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RoyalScepter",
+      "Price": 1000000.0,
+      "ID": 5076,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GlassSlipper",
+      "Price": 1000000.0,
+      "ID": 5077,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrinceUniform",
+      "Price": 500000.0,
+      "ID": 5078,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrincePants",
+      "Price": 500000.0,
+      "ID": 5079,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PrinceCape",
+      "Price": 500000.0,
+      "ID": 5080,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedCrystalFern",
+      "Price": 100000.0,
+      "ID": 5081,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedCrystalSpiral",
+      "Price": 100000.0,
+      "ID": 5082,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedCrystalTeardrop",
+      "Price": 100000.0,
+      "ID": 5083,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PottedCrystalTree",
+      "Price": 100000.0,
+      "ID": 5084,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Princess64",
+      "Price": 100000.0,
+      "ID": 5085,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PaintingofaLass",
+      "Price": 100000.0,
+      "ID": 5086,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DarkSideoftheHallow",
+      "Price": 100000.0,
+      "ID": 5087,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Bernie'sButton",
+      "Price": 250000.0,
+      "ID": 5088,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Glommer'sFlower",
+      "Price": 250000.0,
+      "ID": 5089,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeerclopsEyeball",
+      "Price": 250000.0,
+      "ID": 5090,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MonsterMeat",
+      "Price": 50000.0,
+      "ID": 5091,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MonsterLasagna",
+      "Price": 5000.0,
+      "ID": 5092,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "FroggleBunwich",
+      "Price": 20000.0,
+      "ID": 5093,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TentacleSpike",
+      "Price": 25000.0,
+      "ID": 5094,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "LucytheAxe",
+      "Price": 75000.0,
+      "ID": 5095,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HamBat",
+      "Price": 50000.0,
+      "ID": 5096,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BatBat",
+      "Price": 12500.0,
+      "ID": 5097,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EyeBone",
+      "Price": 100000.0,
+      "ID": 5098,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Garland",
+      "Price": 500.0,
+      "ID": 5099,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BoneHelm",
+      "Price": 100000.0,
+      "ID": 5100,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Eyebrella",
+      "Price": 25000.0,
+      "ID": 5101,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gentleman'sVest",
+      "Price": 20000.0,
+      "ID": 5102,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gentleman'sTrousers",
+      "Price": 20000.0,
+      "ID": 5103,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gentleman'sBeard",
+      "Price": 50000.0,
+      "ID": 5104,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gentleman'sLongBeard",
+      "Price": 50000.0,
+      "ID": 5105,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Gentleman'sMagnificentBeard",
+      "Price": 50000.0,
+      "ID": 5106,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Magiluminescence",
+      "Price": 50000.0,
+      "ID": 5107,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeerclopsTrophy",
+      "Price": 50000.0,
+      "ID": 5108,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeerclopsMask",
+      "Price": 37500.0,
+      "ID": 5109,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeerclopsRelic",
+      "Price": 50000.0,
+      "ID": 5110,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag(Deerclops)",
+      "Price": 10.0,
+      "ID": 5111,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Deerclops)",
+      "Price": 100000.0,
+      "ID": 5112,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "RadioThing",
+      "Price": 50000.0,
+      "ID": 5113,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Abigail'sFlower",
+      "Price": 25000.0,
+      "ID": 5114,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Firestarter'sSweater",
+      "Price": 20000.0,
+      "ID": 5115,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Firestarter'sSkirt",
+      "Price": 20000.0,
+      "ID": 5116,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Pew-maticHorn",
+      "Price": 75000.0,
+      "ID": 5117,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "WeatherPain",
+      "Price": 75000.0,
+      "ID": 5118,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "HoundiusShootius",
+      "Price": 75000.0,
+      "ID": 5119,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DeerThing",
+      "Price": 10.0,
+      "ID": 5120,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheGentlemanScientist",
+      "Price": 10000.0,
+      "ID": 5121,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheFirestarter",
+      "Price": 10000.0,
+      "ID": 5122,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheBereaved",
+      "Price": 10000.0,
+      "ID": 5123,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TheStrongman",
+      "Price": 10000.0,
+      "ID": 5124,
+      "Mod": "Vanilla"
     },
     {
       "Name": "AprilFoolsJoke",
       "Price": 10.0,
-      "ID": 3932,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "toplayz'sHead",
-      "Price": 10.0,
-      "ID": 3933,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "toplayz'sBody",
-      "Price": 10.0,
-      "ID": 3934,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "toplayz'sLegs",
-      "Price": 10.0,
-      "ID": 3935,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "KittyKitCatCat'sHead",
-      "Price": 10.0,
-      "ID": 3936,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "KittyKitCatCat'sBody",
-      "Price": 10.0,
-      "ID": 3937,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "KittyKitCatCat'sLegs",
-      "Price": 10.0,
-      "ID": 3938,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Polyblank'sHead",
-      "Price": 10.0,
-      "ID": 3939,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Polyblank'sBody",
-      "Price": 10.0,
-      "ID": 3940,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Polyblank'sLegs",
-      "Price": 10.0,
-      "ID": 3941,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "dinidini'sHead",
-      "Price": 10.0,
-      "ID": 3942,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "dinidini'sBody",
-      "Price": 10.0,
-      "ID": 3943,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "dinidini'sLegs",
-      "Price": 10.0,
-      "ID": 3944,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "dinidini'sWings",
-      "Price": 10.0,
-      "ID": 3945,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Remeus'sHead",
-      "Price": 10.0,
-      "ID": 3946,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Remeus'sBody",
-      "Price": 10.0,
-      "ID": 3947,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Remeus'sLegs",
-      "Price": 10.0,
-      "ID": 3948,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Saethar'sHead",
-      "Price": 10.0,
-      "ID": 3949,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Saethar'sBody",
-      "Price": 10.0,
-      "ID": 3950,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Saethar'sLegs",
-      "Price": 10.0,
-      "ID": 3951,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Saethar'sWings",
-      "Price": 10.0,
-      "ID": 3952,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Orian'sHead",
-      "Price": 10.0,
-      "ID": 3953,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Orian'sBody",
-      "Price": 10.0,
-      "ID": 3954,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Orian'sLegs",
-      "Price": 10.0,
-      "ID": 3955,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Glory'sHead",
-      "Price": 10.0,
-      "ID": 3956,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Glory'sBody",
-      "Price": 10.0,
-      "ID": 3957,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "Glory'sLegs",
-      "Price": 10.0,
-      "ID": 3958,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "POCKETS'sHead",
-      "Price": 10.0,
-      "ID": 3959,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "POCKETS'sBody",
-      "Price": 10.0,
-      "ID": 3960,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "POCKETS'sLegs",
-      "Price": 10.0,
-      "ID": 3961,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "POCKETS'sWings",
-      "Price": 10.0,
-      "ID": 3962,
-      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
-    },
-    {
-      "Name": "AndromedonHead",
-      "Price": 10.0,
-      "ID": 3963,
+      "ID": 5125,
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
     },
     {
       "Name": "AndromedonBody",
       "Price": 10.0,
-      "ID": 3964,
+      "ID": 5126,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "AndromedonHead",
+      "Price": 10.0,
+      "ID": 5127,
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
     },
     {
       "Name": "AndromedonLegs",
       "Price": 10.0,
-      "ID": 3965,
+      "ID": 5128,
       "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "dinidini'sBody",
+      "Price": 10.0,
+      "ID": 5129,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "dinidini'sHead",
+      "Price": 10.0,
+      "ID": 5130,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "dinidini'sLegs",
+      "Price": 10.0,
+      "ID": 5131,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "dinidini'sWings",
+      "Price": 10.0,
+      "ID": 5132,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Glory'sBody",
+      "Price": 10.0,
+      "ID": 5133,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Glory'sHead",
+      "Price": 10.0,
+      "ID": 5134,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Glory'sLegs",
+      "Price": 10.0,
+      "ID": 5135,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "KittyKitCatCat'sBody",
+      "Price": 10.0,
+      "ID": 5136,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "KittyKitCatCat'sHead",
+      "Price": 10.0,
+      "ID": 5137,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "KittyKitCatCat'sLegs",
+      "Price": 10.0,
+      "ID": 5138,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Orian'sBody",
+      "Price": 10.0,
+      "ID": 5139,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Orian'sHead",
+      "Price": 10.0,
+      "ID": 5140,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Orian'sLegs",
+      "Price": 10.0,
+      "ID": 5141,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "POCKETS'sBody",
+      "Price": 10.0,
+      "ID": 5142,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "POCKETS'sHead",
+      "Price": 10.0,
+      "ID": 5143,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "POCKETS'sLegs",
+      "Price": 10.0,
+      "ID": 5144,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "POCKETS'sWings",
+      "Price": 10.0,
+      "ID": 5145,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Polyblank'sBody",
+      "Price": 10.0,
+      "ID": 5146,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Polyblank'sHead",
+      "Price": 10.0,
+      "ID": 5147,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Polyblank'sLegs",
+      "Price": 10.0,
+      "ID": 5148,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Remeus'sBody",
+      "Price": 10.0,
+      "ID": 5149,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Remeus'sHead",
+      "Price": 10.0,
+      "ID": 5150,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Remeus'sLegs",
+      "Price": 10.0,
+      "ID": 5151,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Saethar'sBody",
+      "Price": 10.0,
+      "ID": 5152,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Saethar'sHead",
+      "Price": 10.0,
+      "ID": 5153,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Saethar'sLegs",
+      "Price": 10.0,
+      "ID": 5154,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Saethar'sWings",
+      "Price": 10.0,
+      "ID": 5155,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Squid'sBody",
+      "Price": 10.0,
+      "ID": 5156,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Squid'sHead",
+      "Price": 10.0,
+      "ID": 5157,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "Squid'sLegs",
+      "Price": 10.0,
+      "ID": 5158,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "toplayz'sBody",
+      "Price": 10.0,
+      "ID": 5159,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "toplayz'sHead",
+      "Price": 10.0,
+      "ID": 5160,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "toplayz'sLegs",
+      "Price": 10.0,
+      "ID": 5161,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "StartingBag",
+      "Price": 10.0,
+      "ID": 5162,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "UnloadedItem",
+      "Price": 10.0,
+      "ID": 5163,
+      "Mod": "Terraria.ModLoader.Default.ModLoaderMod"
+    },
+    {
+      "Name": "LesserRestorationPotion",
+      "Price": 1500.0,
+      "ID": 226,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EskimoHood",
+      "Price": 50000.0,
+      "ID": 803,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EskimoCoat",
+      "Price": 40000.0,
+      "ID": 804,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "EskimoPants",
+      "Price": 30000.0,
+      "ID": 805,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkEskimoHood",
+      "Price": 50000.0,
+      "ID": 978,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkEskimoCoat",
+      "Price": 40000.0,
+      "ID": 979,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PinkEskimoPants",
+      "Price": 30000.0,
+      "ID": 980,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PurpleMucos",
+      "Price": 10000.0,
+      "ID": 1118,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Vertebrae",
+      "Price": 12.0,
+      "ID": 1330,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "OilRagSconse",
+      "Price": 10.0,
+      "ID": 1395,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Space)",
+      "Price": 100000.0,
+      "ID": 1597,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "MusicBox(Ocean)",
+      "Price": 100000.0,
+      "ID": 1604,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "ZombieEskimoBanner",
+      "Price": 1000.0,
+      "ID": 1643,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "SpookyPlatform",
+      "Price": 10.0,
+      "ID": 1818,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "GypsyRobe",
+      "Price": 35000.0,
+      "ID": 2279,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AmanitiaFungifin",
+      "Price": 10.0,
+      "ID": 2475,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "PillaginMePixels",
+      "Price": 25000.0,
+      "ID": 2497,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "BlueCultistCasterBanner",
+      "Price": 1000.0,
+      "ID": 2902,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Skiphs'sBlood",
+      "Price": 150000.0,
+      "ID": 3024,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3318,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3319,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3320,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3321,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3322,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3323,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3324,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3325,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3326,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3327,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3328,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3329,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3330,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3331,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3332,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientCultistTrophy",
+      "Price": 50000.0,
+      "ID": 3357,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "AncientCultistMask",
+      "Price": 10.0,
+      "ID": 3372,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Skiphs'sMask",
+      "Price": 10.0,
+      "ID": 3585,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Skiphs'sSkin",
+      "Price": 10.0,
+      "ID": 3586,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Skiphs'sBearButt",
+      "Price": 10.0,
+      "ID": 3587,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Skiphs'sPaws",
+      "Price": 400000.0,
+      "ID": 3588,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "UltraBrightCampfire",
+      "Price": 10.0,
+      "ID": 3723,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Sandfall",
+      "Price": 5.0,
+      "ID": 3754,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Snowfall",
+      "Price": 10.0,
+      "ID": 3755,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "TreasureBag",
+      "Price": 10.0,
+      "ID": 3860,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "DynastyPlatform",
+      "Price": 10.0,
+      "ID": 3905,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Arkhalis'sHood",
+      "Price": 10.0,
+      "ID": 3921,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Arkhalis'sBodice",
+      "Price": 10.0,
+      "ID": 3922,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Arkhalis'sTights",
+      "Price": 10.0,
+      "ID": 3923,
+      "Mod": "Vanilla"
+    },
+    {
+      "Name": "Arkhalis'sLightwings",
+      "Price": 400000.0,
+      "ID": 3924,
+      "Mod": "Vanilla"
     }
   ]
 }
